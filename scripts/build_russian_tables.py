@@ -65,23 +65,26 @@ def build_translation_lookup(source_rows, russian_rows, table_name):
             f"({len(source_rows)} и {len(russian_rows)}). Сборка отменена."
         )
 
-    # Сопоставляем пары по позиции в экспортированных таблицах.
-    # Один m_Id может законно повторяться для разных исходных строк.
+    # m_Id в JSON — 64-битные целые числа. Некоторые инструменты,
+    # которыми ранее редактировались переводы, могли округлить их.
+    # Поэтому ID берём ТОЛЬКО из оригинального итальянского JSON,
+    # а русскую строку — из соответствующей позиции Russian JSON.
     lookup = defaultdict(deque)
 
     for index, (source, russian) in enumerate(zip(source_rows, russian_rows)):
-        if source["m_Id"] != russian["m_Id"]:
+        if "m_Id" not in source or "m_Localized" not in source:
             raise RuntimeError(
-                f"{table_name}: m_Id не совпадает в записи {index}: "
-                f"{source['m_Id']} != {russian['m_Id']}. Сборка отменена."
+                f"{table_name}: некорректная исходная запись {index}. Сборка отменена."
+            )
+        if "m_Localized" not in russian:
+            raise RuntimeError(
+                f"{table_name}: нет m_Localized в русской записи {index}. Сборка отменена."
             )
 
-        lookup[(source["m_Id"], source["m_Localized"])].append(
-            russian["m_Localized"]
-        )
+        key = (source["m_Id"], source["m_Localized"])
+        lookup[key].append(russian["m_Localized"])
 
     return lookup
-
 
 def main():
     if not SOURCE_BUNDLE.is_file():
