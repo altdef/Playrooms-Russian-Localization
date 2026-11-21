@@ -180,18 +180,24 @@ def main():
     parser.add_argument(
         "--catalog",
         type=Path,
-        default=DEFAULT_CATALOG,
-        help="Путь к catalog.bin игры (по умолчанию — известный путь Playrooms)",
+        default=None,
+        help="Полный путь к catalog.bin игры. Если не указан, скрипт спросит его при запуске.",
     )
     args = parser.parse_args()
 
-    if not args.catalog.is_file():
-        raise FileNotFoundError(
-            "Не найден catalog.bin:\n"
-            f"{args.catalog}\n"
-            "Укажи путь: python scripts\\build_russian_tables.py --catalog "
-            '"ПОЛНЫЙ_ПУТЬ_К_catalog.bin"'
-        )
+    if args.catalog is None:
+        entered_path = input(
+            "Укажи полный путь к catalog.bin игры "
+            "(можно перетащить файл в это окно):\\n> "
+        ).strip().strip('"').strip("'")
+        if not entered_path:
+            raise SystemExit("Путь не указан. Сборка отменена.")
+        catalog_source = Path(entered_path)
+    else:
+        catalog_source = args.catalog
+
+    if not catalog_source.is_file():
+        raise FileNotFoundError(f"Не найден catalog.bin: {catalog_source}")
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     download_source_bundle()
@@ -330,7 +336,7 @@ def main():
 
     # Вычисляем именно Unity CRC по несжатым файлам внутри bundle.
     unity_crc = calculate_unity_crc(OUTPUT_BUNDLE)
-    write_catalog_copy(args.catalog, unity_crc)
+    write_catalog_copy(catalog_source, unity_crc)
 
     print("\nСБОРКА ЗАВЕРШЕНА УСПЕШНО")
     print("Таблиц обновлено:", updated)
