@@ -51,16 +51,20 @@ def download_translations(filename):
     if not isinstance(rows, list) or not rows:
         raise RuntimeError(f"В {filename} не найдены записи m_TableData.Array")
 
+    # Один m_Id может встречаться несколько раз (например, текст письма
+    # и его тема). Сохраняем все варианты в исходном порядке.
     translations = {}
     for row in rows:
         if "m_Id" not in row or "m_Localized" not in row:
             raise RuntimeError(f"Некорректная запись в {filename}: отсутствует m_Id или m_Localized")
         entry_id = row["m_Id"]
-        if entry_id in translations:
-            raise RuntimeError(f"Повторяющийся m_Id {entry_id} в {filename}")
-        translations[entry_id] = row["m_Localized"]
+        translations.setdefault(entry_id, []).append(row["m_Localized"])
 
-    print(f"  Получено переводов: {len(translations)}")
+    duplicate_count = sum(len(values) - 1 for values in translations.values())
+    print(
+        f"  Получено записей: {len(rows)} "
+        f"(уникальных ID: {len(translations)}, повторов: {duplicate_count})"
+    )
     return translations
 
 
@@ -104,14 +108,35 @@ def main():
 
         changed = 0
         missing = 0
+        occurrence_index = {}
 
         for row in rows:
             entry_id = row.get("m_Id")
             if entry_id in translations:
-                row["m_Localized"] = translations[entry_id]
+                position = occurrence_index.get(entry_id, 0)
+                values = translations[entry_id]
+
+                if position >= len(values):
+                    raise RuntimeError(
+                        f"{table_name}: в Unity-бандле больше повторов m_Id "
+                        f"{entry_id}, чем в JSON. Бандл не сохранён."
+                    )
+
+                row["m_Localized"] = values[position]
+                occurrence_index[entry_id] = position + 1
                 changed += 1
             else:
                 missing += 1
+
+        # Проверяем, что JSON и исходная таблица содержат одинаковое
+        # количество вхождений каждого ID.
+        for entry_id, values in translations.items():
+            used = occurrence_index.get(entry_id, 0)
+            if used != len(values):
+                raise RuntimeError(
+                    f"{table_name}: для m_Id {entry_id} использовано "
+                    f"{used} из {len(values)} переводов. Бандл не сохранён."
+                )
 
         data["m_LocaleId"]["m_Code"] = "ru"
         obj.save_typetree(data)
