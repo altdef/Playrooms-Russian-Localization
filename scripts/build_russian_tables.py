@@ -143,9 +143,25 @@ def main():
             row["m_Localized"] = lookup[key].popleft()
             changed += 1
 
+        # Важно: изменения в typetree нужно явно записать обратно в Unity-объект.
+        # Иначе изменённые Python-словари не попадут в сохранённый bundle.
+        locale_data = data.get("m_LocaleId")
+        if not isinstance(locale_data, dict) or "m_Code" not in locale_data:
+            raise RuntimeError(
+                f"{table_name}: не найдено поле m_LocaleId.m_Code. "
+                "Бандл не сохранён."
+            )
+        locale_data["m_Code"] = "ru"
+        obj.save_typetree(data)
+
         leftovers = sum(len(values) for values in lookup.values())
+        if leftovers:
+            raise RuntimeError(
+                f"{table_name}: осталось {leftovers} неиспользованных переводов. "
+                "Бандл не сохранён."
+            )
         print(
-            f"{table_name}: заменено {changed} строк; "
+            f"{table_name}: заменено {changed} строк; locale ru; "
             f"неиспользованных записей JSON: {leftovers}"
         )
 
@@ -198,6 +214,10 @@ def main():
             if locale_code != "ru":
                 raise RuntimeError(
                     f"Проверка не пройдена: {data.get('m_Name')} не имеет locale ru"
+                )
+            if not rows or rows[0].get("m_Localized", "").startswith("Gentile "):
+                raise RuntimeError(
+                    f"Проверка не пройдена: {data.get('m_Name')} содержит исходный текст"
                 )
             verified += 1
 
