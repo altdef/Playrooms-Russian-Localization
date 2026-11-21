@@ -49,11 +49,15 @@ python scripts\\build_russian_tables_github.py
 
 CRC вычисляется по несжатому содержимому AssetBundle, как ожидает Unity. Скрипт обновляет CRC в копии каталога по смещению 10512 (little-endian). Файлы в установленной игре скрипт не изменяет.
 
-Если игра установлена в другом месте, укажи путь к каталогу явно:
+При обычном запуске скрипт попросит путь к `catalog.bin`. Просто вставь полный путь или перетащи файл `catalog.bin` в окно терминала и нажми Enter.
+
+При желании путь можно передать сразу параметром:
 
 ```powershell
 python scripts\build_russian_tables.py --catalog "D:\путь\к\Playrooms_Data\StreamingAssets\aa\catalog.bin"
 ```
+
+Для GitHub-варианта используй такое же добавление `--catalog` к команде запуска.
 
 ## Установка
 
