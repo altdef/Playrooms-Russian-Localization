@@ -184,12 +184,6 @@ def main():
     )
     args = parser.parse_args()
 
-    if not SOURCE_BUNDLE.is_file():
-        raise FileNotFoundError(
-            "Не найден чистый исходный bundle в репозитории:\n"
-            f"{SOURCE_BUNDLE}"
-        )
-
     if not args.catalog.is_file():
         raise FileNotFoundError(
             "Не найден catalog.bin:\n"
