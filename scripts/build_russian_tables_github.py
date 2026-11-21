@@ -35,7 +35,7 @@ GITHUB_RAW = (
 )
 SOURCE_BUNDLE_NAME = "localization-string-tables-italian(it)_assets_all.bundle"
 SOURCE_BUNDLE_URL = GITHUB_RAW + "bundle/" + SOURCE_BUNDLE_NAME
-SOURCE_BUNDLE = OUTPUT_DIR / SOURCE_BUNDLE_NAME
+SOURCE_BUNDLE = OUTPUT_DIR / "source" / SOURCE_BUNDLE_NAME
 
 TABLES = {
     "Mails_it": ("Original/Mails_it.json", "Russian/Mails_ru.json"),
@@ -61,6 +61,7 @@ def download_source_bundle():
     if not raw:
         raise RuntimeError("GitHub вернул пустой файл bundle")
 
+    SOURCE_BUNDLE.parent.mkdir(parents=True, exist_ok=True)
     temp_path = SOURCE_BUNDLE.with_suffix(SOURCE_BUNDLE.suffix + ".tmp")
     temp_path.write_bytes(raw)
     os.replace(temp_path, SOURCE_BUNDLE)
