@@ -22,13 +22,27 @@
 python -m pip install -r requirements.txt
 ```
 
-После изменений JSON на GitHub, из корня локальной копии репозитория выполни:
+Есть два независимых сборщика. Оба берут чистый исходный bundle из папки `bundle`, копию `catalog.bin` — из установленной игры (или из пути, указанного через `--catalog`), а результат сохраняют в `build`. Файлы игры автоматически не изменяются.
+
+### Вариант 1 — локальные JSON из соседних папок проекта
+
+Используй, если JSON находятся в папках `Original` и `Russian` рядом с `scripts`:
 
 ```powershell
-python scripts\build_russian_tables.py
+python scripts\\build_russian_tables.py
 ```
 
-Скрипт скачает свежие JSON из ветки `main`, возьмёт чистый исходный bundle из папки `bundle`, соберёт перевод и создаст два файла в папке `build`:
+Этот вариант не скачивает JSON из GitHub.
+
+### Вариант 2 — скачивать JSON с GitHub при каждой сборке
+
+```powershell
+python scripts\\build_russian_tables_github.py
+```
+
+Этот вариант получает актуальные JSON из ветки `main` и не требует локальных папок `Original` и `Russian` для чтения перевода.
+
+Оба скрипта создают два файла в папке `build`:
 
 - `localization-string-tables-italian(it)_assets_all.bundle`
 - `catalog.bin`
