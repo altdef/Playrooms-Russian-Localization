@@ -14,12 +14,8 @@ import UnityPy
 # хранить не только в D:\loc\PlayRooms.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# Всегда используем чистый исходный bundle из репозитория, а не файл из игры.
-SOURCE_BUNDLE = (
-    BASE_DIR
-    / "bundle"
-    / "localization-string-tables-italian(it)_assets_all.bundle"
-)
+# Исходный bundle скачивается с GitHub в build при каждом запуске.
+SOURCE_BUNDLE_NAME = "localization-string-tables-italian(it)_assets_all.bundle"
 
 # Результаты сборки появятся здесь. Файлы игры скрипт не перезаписывает.
 OUTPUT_DIR = BASE_DIR / "build"
@@ -37,6 +33,9 @@ GITHUB_RAW = (
     "https://raw.githubusercontent.com/"
     "altdef/Playrooms-Russian-Localization/main/"
 )
+SOURCE_BUNDLE_NAME = "localization-string-tables-italian(it)_assets_all.bundle"
+SOURCE_BUNDLE_URL = GITHUB_RAW + "bundle/" + SOURCE_BUNDLE_NAME
+SOURCE_BUNDLE = OUTPUT_DIR / SOURCE_BUNDLE_NAME
 
 TABLES = {
     "Mails_it": ("Original/Mails_it.json", "Russian/Mails_ru.json"),
@@ -46,6 +45,30 @@ TABLES = {
     "Skills_it": ("Original/Skills_it.json", "Russian/Skills_ru.json"),
     "Items_it": ("Original/Items_it.json", "Russian/Items_ru.json"),
 }
+
+
+def download_source_bundle():
+    url = SOURCE_BUNDLE_URL
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Playrooms-Russian-Localization-Builder"},
+    )
+    print(f"Загружаю исходный bundle с GitHub: bundle/{SOURCE_BUNDLE_NAME}")
+
+    with urllib.request.urlopen(request, timeout=120) as response:
+        raw = response.read()
+
+    if not raw:
+        raise RuntimeError("GitHub вернул пустой файл bundle")
+
+    temp_path = SOURCE_BUNDLE.with_suffix(SOURCE_BUNDLE.suffix + ".tmp")
+    temp_path.write_bytes(raw)
+    os.replace(temp_path, SOURCE_BUNDLE)
+
+    # Проверяем, что скачанный файл действительно читается UnityPy.
+    UnityPy.load(str(SOURCE_BUNDLE))
+    print(f"  Скачано: {len(raw)} байт")
+    return SOURCE_BUNDLE
 
 
 def download_json(repo_path):
@@ -176,6 +199,7 @@ def main():
         )
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    download_source_bundle()
 
     lookups = {}
     for table_name, (source_path, russian_path) in TABLES.items():
