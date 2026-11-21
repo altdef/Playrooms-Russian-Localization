@@ -48,17 +48,14 @@ TABLES = {
 }
 
 
-def download_json(repo_path):
-    url = GITHUB_RAW + repo_path
-    request = urllib.request.Request(
-        url,
-        headers={"User-Agent": "Playrooms-Russian-Localization-Builder"},
-    )
-    print(f"Загружаю с GitHub: {repo_path}")
+def read_local_json(repo_path):
+    path = BASE_DIR / repo_path
+    print(f"Читаю локальный JSON: {repo_path}")
 
-    with urllib.request.urlopen(request, timeout=30) as response:
-        raw = response.read()
+    if not path.is_file():
+        raise FileNotFoundError(f"Не найден JSON-файл: {path}")
 
+    raw = path.read_bytes()
     data = json.loads(raw.decode("utf-8-sig"))
     table = data.get("m_TableData", {})
     rows = table.get("Array", []) if isinstance(table, dict) else table
@@ -151,7 +148,7 @@ def write_catalog_copy(catalog_source, unity_crc):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Сборка русского перевода Playrooms из JSON на GitHub"
+        description="Сборка русского перевода Playrooms из локальных JSON проекта"
     )
     parser.add_argument(
         "--catalog",
@@ -179,8 +176,8 @@ def main():
 
     lookups = {}
     for table_name, (source_path, russian_path) in TABLES.items():
-        source_rows = download_json(source_path)
-        russian_rows = download_json(russian_path)
+        source_rows = read_local_json(source_path)
+        russian_rows = read_local_json(russian_path)
         lookups[table_name] = build_translation_lookup(
             source_rows, russian_rows, table_name
         )
