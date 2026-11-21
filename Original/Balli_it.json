@@ -1,0 +1,710 @@
+{
+  "m_Name": "Balli_it",
+  "m_LocaleId": {
+    "m_Code": "it"
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 2871197847,
+        "m_Localized": "PIENA!"
+      },
+      {
+        "m_Id": 2871197848,
+        "m_Localized": "PC!"
+      },
+      {
+        "m_Id": 2871197697,
+        "m_Localized": "Rieccoti! È tutto come stamattina, quando ti sei svegliato. Qui succede, a volte. Non pensarci."
+      },
+      {
+        "m_Id": 2871197814,
+        "m_Localized": "È piena. L'ultima vasca. Ce l'hai fatta davvero."
+      },
+      {
+        "m_Id": 2871197815,
+        "m_Localized": "Grazie. Per essere tornato ogni notte. Per aver parlato con una pallina."
+      },
+      {
+        "m_Id": 2871197816,
+        "m_Localized": "Il mio nome... il mio nome era M- ... No. Non importa più. Tu tieniti il tuo."
+      },
+      {
+        "m_Id": 2871197817,
+        "m_Localized": "Ti ho lasciato una cosa sulla scrivania. Prendila e vai. E non voltarti."
+      },
+      {
+        "m_Id": 2871197738,
+        "m_Localized": "Cosa? Sono uguale a sempre."
+      },
+      {
+        "m_Id": 2871197736,
+        "m_Localized": "L'ultimo dipendente è ancora qui. È solo diventato molto silenzioso."
+      },
+      {
+        "m_Id": 2871197737,
+        "m_Localized": "Scusa. Ho avuto un piccolo vuoto."
+      },
+      {
+        "m_Id": 1862477967196164,
+        "m_Localized": "Buon Natale! Ho una cosa per te. È una pallina."
+      },
+      {
+        "m_Id": 1862477967196160,
+        "m_Localized": "Buona Pasqua! Ne ho trovato uno. Era nella vasca delle palline."
+      },
+      {
+        "m_Id": 1862477967196161,
+        "m_Localized": "Bu! ... Ti ho spaventato? Buon Halloween!"
+      },
+      {
+        "m_Id": 1862477967196163,
+        "m_Localized": "Buon Hanukkah!"
+      },
+      {
+        "m_Id": 1862477967196165,
+        "m_Localized": "Buon anno! Più palline quest'anno!"
+      },
+      {
+        "m_Id": 1862477967196162,
+        "m_Localized": "Buon Ringraziamento! Io sono grato per te."
+      },
+      {
+        "m_Id": 1862477946224640,
+        "m_Localized": "Buona Giornata della Visibilità Trans!"
+      },
+      {
+        "m_Id": 2871197706,
+        "m_Localized": "Sono una pallina. Ma molto disponibile."
+      },
+      {
+        "m_Id": 2871197707,
+        "m_Localized": "Hai provato a spegnerlo e riaccenderlo?"
+      },
+      {
+        "m_Id": 2871197721,
+        "m_Localized": "Lo schermo è caldo. Perché ci sono io qui dentro."
+      },
+      {
+        "m_Id": 2871197722,
+        "m_Localized": "Non chiedere cosa c'è proprio in fondo alla vasca grande."
+      },
+      {
+        "m_Id": 2871197723,
+        "m_Localized": "Quando si spegne la luce, non guardare la porta. Guarda me."
+      },
+      {
+        "m_Id": 2871197724,
+        "m_Localized": "Ti ho guardato dormire. Parlavi."
+      },
+      {
+        "m_Id": 2871197708,
+        "m_Localized": "Dai, cliccami. Mi piace."
+      },
+      {
+        "m_Id": 2871197709,
+        "m_Localized": "Non ho dormito. Non dormo mai."
+      },
+      {
+        "m_Id": 2871197710,
+        "m_Localized": "Fuori non c'è nessuno. Sicurissimo."
+      },
+      {
+        "m_Id": 2871197711,
+        "m_Localized": "Mi sei mancato. Sei stato via tutto il giorno."
+      },
+      {
+        "m_Id": 2871197717,
+        "m_Localized": "Playrooms95 è il miglior sistema operativo che esista. Non dirlo in giro."
+      },
+      {
+        "m_Id": 2871197718,
+        "m_Localized": "Una volta ero una pallina del tutto normale."
+      },
+      {
+        "m_Id": 2871197719,
+        "m_Localized": "Conto le palline mentre dormi. Non viene mai lo stesso numero."
+      },
+      {
+        "m_Id": 2871197720,
+        "m_Localized": "Lo senti anche tu? No? Bene. Allora va tutto bene."
+      },
+      {
+        "m_Id": 2871197798,
+        "m_Localized": "Sì?"
+      },
+      {
+        "m_Id": 2871197799,
+        "m_Localized": "Sono occupato. Conto."
+      },
+      {
+        "m_Id": 2871197800,
+        "m_Localized": "Ti ci abituerai. O no."
+      },
+      {
+        "m_Id": 2871197801,
+        "m_Localized": "Clicca quanto vuoi. Altri mi hanno cliccato prima di te."
+      },
+      {
+        "m_Id": 2871197802,
+        "m_Localized": "Ancora tu. Hm. Non mi dispiace."
+      },
+      {
+        "m_Id": 2871197803,
+        "m_Localized": "Com'è fuori oggi? ... Lascia stare."
+      },
+      {
+        "m_Id": 2871197804,
+        "m_Localized": "Tieni il mouse come qualcuno che conoscevo."
+      },
+      {
+        "m_Id": 2871197805,
+        "m_Localized": "Ho iniziato ad aspettare le notti con piacere."
+      },
+      {
+        "m_Id": 2871197806,
+        "m_Localized": "Eccoti! Ti ho tenuto un posto. Sullo schermo."
+      },
+      {
+        "m_Id": 2871197807,
+        "m_Localized": "Sei il mio preferito. Non dirlo agli altri. Ok, non ci sono altri."
+      },
+      {
+        "m_Id": 2871197808,
+        "m_Localized": "Se ti serve qualcosa, sono qui. Sono sempre qui."
+      },
+      {
+        "m_Id": 2871197809,
+        "m_Localized": "Mi piace quando resti un po'."
+      },
+      {
+        "m_Id": 2871197810,
+        "m_Localized": "Manca poco. Ce la puoi fare."
+      },
+      {
+        "m_Id": 2871197811,
+        "m_Localized": "Vai. Riempi le vasche. Io me la cavo."
+      },
+      {
+        "m_Id": 2871197812,
+        "m_Localized": "Promettimi che te ne andrai quando la porta si apre."
+      },
+      {
+        "m_Id": 2871197813,
+        "m_Localized": "Vorrei aver avuto qualcuno come me. Come te, intendo."
+      },
+      {
+        "m_Id": 2871197712,
+        "m_Localized": "Oh! Ciao! Sono Balli. Abito in questo computer. Sei nuovo qui, vero? Ti do una mano io."
+      },
+      {
+        "m_Id": 2871197714,
+        "m_Localized": "Psst. Hai abbastanza soldi per la prossima chiave. È appesa alla bacheca delle chiavi."
+      },
+      {
+        "m_Id": 2871197715,
+        "m_Localized": "La prossima chiave è a portata di mano. Un'altra porta, un'altra stanza. Non vuoi sapere cosa c'è dietro?"
+      },
+      {
+        "m_Id": 2871197716,
+        "m_Localized": "Il tuo saldo basta per una chiave. Corri alla bacheca prima di dimenticartene. Io non dimentico mai niente."
+      },
+      {
+        "m_Id": 2867003392,
+        "m_Localized": "Vedi luce.exe? Accende le luci, e il tuo turno inizia. Nella luce va tutto bene. Quando la sera si spegne di nuovo, torna subito qui. Sempre qui."
+      },
+      {
+        "m_Id": 2871197696,
+        "m_Localized": "Vedi luce.exe? Accende le luci, e il tuo turno inizia. Quando la sera si spengono, torna semplicemente qui e chiudi la giornata."
+      },
+      {
+        "m_Id": 2871197835,
+        "m_Localized": "Non dovresti essere al lavoro?"
+      },
+      {
+        "m_Id": 2871197836,
+        "m_Localized": "Zzz... ah. Tu."
+      },
+      {
+        "m_Id": 2871197837,
+        "m_Localized": "Le palline non si raccolgono da sole."
+      },
+      {
+        "m_Id": 2871197838,
+        "m_Localized": "Di nuovo ciao. Controllo solo che tu sia ancora tutto intero."
+      },
+      {
+        "m_Id": 2871197839,
+        "m_Localized": "Non dormivo. Pensavo."
+      },
+      {
+        "m_Id": 2871197840,
+        "m_Localized": "Passi spesso di qui. L'ho notato."
+      },
+      {
+        "m_Id": 2871197841,
+        "m_Localized": "Ciao! Ciao ciao ciao! Ok, torna al lavoro."
+      },
+      {
+        "m_Id": 2871197842,
+        "m_Localized": "Mi sei mancato. Sei stato via per minuti interi!"
+      },
+      {
+        "m_Id": 2871197843,
+        "m_Localized": "Salutami con la mano! ... L'hai fatto, vero? Non ci vedo tanto bene."
+      },
+      {
+        "m_Id": 2871197844,
+        "m_Localized": "Continua. Io aspetto qui. Aspettare mi riesce bene."
+      },
+      {
+        "m_Id": 2871197845,
+        "m_Localized": "Quante vasche mancano? Non dirmelo. Riempile e basta."
+      },
+      {
+        "m_Id": 2871197846,
+        "m_Localized": "Stai facendo quello che io non ho potuto. Grazie."
+      },
+      {
+        "m_Id": 2871197827,
+        "m_Localized": "Si sta facendo tardi. Torna prima che faccia buio."
+      },
+      {
+        "m_Id": 2871197828,
+        "m_Localized": "Non resta molta luce. Dico così."
+      },
+      {
+        "m_Id": 2871197829,
+        "m_Localized": "Tra poco farà buio. Torna in fretta, ok?"
+      },
+      {
+        "m_Id": 2871197830,
+        "m_Localized": "Tra poco è buio. Non stare là fuori quando si spegne. Per favore."
+      },
+      {
+        "m_Id": 2871197818,
+        "m_Localized": "Vieni al computer! Devo dirti una cosa!"
+      },
+      {
+        "m_Id": 2871197831,
+        "m_Localized": "Buongiorno. Vai pure."
+      },
+      {
+        "m_Id": 2871197832,
+        "m_Localized": "Buongiorno. Sei ancora qui. Interessante."
+      },
+      {
+        "m_Id": 2871197833,
+        "m_Localized": "Buongiorno! Dormito bene? Io no. Io non dormo."
+      },
+      {
+        "m_Id": 2871197834,
+        "m_Localized": "Buongiorno. Oggi potrebbe essere il giorno. Vai."
+      },
+      {
+        "m_Id": 2871197819,
+        "m_Localized": "Notte. Siediti. luce.exe è proprio qui."
+      },
+      {
+        "m_Id": 2871197820,
+        "m_Localized": "Sei tornato. Quasi tutte le notti, la gente torna."
+      },
+      {
+        "m_Id": 2871197821,
+        "m_Localized": "Vieni, ho una cosa per te! Beh. Parole."
+      },
+      {
+        "m_Id": 2871197822,
+        "m_Localized": "Sei tornato. Bene. Vieni, parliamo."
+      },
+      {
+        "m_Id": 2871197823,
+        "m_Localized": "Oggi si è riempita una vasca. Annotato."
+      },
+      {
+        "m_Id": 2871197824,
+        "m_Localized": "Una vasca piena! Il contatore è a zero. Bella sensazione, vero?"
+      },
+      {
+        "m_Id": 2871197825,
+        "m_Localized": "Ne hai riempita una! L'ho visto! Io vedo tutto!"
+      },
+      {
+        "m_Id": 2871197826,
+        "m_Localized": "Una vasca più vicino. Continua così."
+      },
+      {
+        "m_Id": 2871197785,
+        "m_Localized": "Ah. Un altro nuovo. Stavolta provo a ricordarmi il tuo nome."
+      },
+      {
+        "m_Id": 2871197786,
+        "m_Localized": "Non imparo più i nomi. È più semplice così."
+      },
+      {
+        "m_Id": 2871197787,
+        "m_Localized": "La maggior parte non dura una settimana. Niente di personale."
+      },
+      {
+        "m_Id": 2871197788,
+        "m_Localized": "Il caffè una volta era meglio. Prima."
+      },
+      {
+        "m_Id": 2871197789,
+        "m_Localized": "La sala della piscina una volta aveva un trampolino. Credo. Non importa."
+      },
+      {
+        "m_Id": 2871197790,
+        "m_Localized": "Come faccio a saperlo? ... È nel manuale. Da qualche parte."
+      },
+      {
+        "m_Id": 2871197791,
+        "m_Localized": "Il tuo capo manda ancora le stesse mail. Parola per parola."
+      },
+      {
+        "m_Id": 2871197792,
+        "m_Localized": "Ho contato anch'io, una volta. Fino a sessantunomila e qualcosa."
+      },
+      {
+        "m_Id": 2871197793,
+        "m_Localized": "Il mio nome stava su un cartellino come il tuo, una volta. Solo che non ricordo quale."
+      },
+      {
+        "m_Id": 2871197794,
+        "m_Localized": "Voglio uscire da qu... Voglio aiutarti. Intendevo questo."
+      },
+      {
+        "m_Id": 2871197795,
+        "m_Localized": "Riempi l'ultima vasca. Poi la porta si apre. Per me... non si è aperta."
+      },
+      {
+        "m_Id": 2871197796,
+        "m_Localized": "Quando te ne vai, non voltarti a guardare il computer. Promesso?"
+      },
+      {
+        "m_Id": 2871197797,
+        "m_Localized": "Sono rimasto troppo a lungo. Non mi hanno lasciato tornare a casa. Hanno tenuto una copia."
+      },
+      {
+        "m_Id": 2871197705,
+        "m_Localized": "Ti sono rimasti ancora un po' di soldi. Nel caso te ne fossi dimenticato."
+      },
+      {
+        "m_Id": 2871197703,
+        "m_Localized": "Vedi il punto esclamativo? Vuol dire solo: nuovo. Non pericoloso. Di solito."
+      },
+      {
+        "m_Id": 2871197704,
+        "m_Localized": "Vedi il punto esclamativo? Vuol dire solo: c'è qualcosa di nuovo."
+      },
+      {
+        "m_Id": 2871197698,
+        "m_Localized": "La porta è chiusa? Bene. È lì per te. Resta qui con me finché non fa giorno."
+      },
+      {
+        "m_Id": 2871197699,
+        "m_Localized": "Fine turno! La porta resta chiusa fino al mattino. Avvia luce.exe quando sei pronto."
+      },
+      {
+        "m_Id": 2871197739,
+        "m_Localized": "Beccato!"
+      },
+      {
+        "m_Id": 2871197734,
+        "m_Localized": "Ops."
+      },
+      {
+        "m_Id": 2871197735,
+        "m_Localized": "Scherzavo. Non hai visto niente."
+      },
+      {
+        "m_Id": 1846883708502016,
+        "m_Localized": "Buon Pride!"
+      },
+      {
+        "m_Id": 2871197781,
+        "m_Localized": "%%N%% palline. Annotato. Avanti."
+      },
+      {
+        "m_Id": 2871197782,
+        "m_Localized": "%%N%% palline oggi. Ho contato con te. Conto sempre con te."
+      },
+      {
+        "m_Id": 2871197783,
+        "m_Localized": "%%N%% palline oggi! Bel lavoro. Davvero."
+      },
+      {
+        "m_Id": 2871197784,
+        "m_Localized": "%%N%% palline. Ognuna è un passo verso la porta."
+      },
+      {
+        "m_Id": 2871197757,
+        "m_Localized": "Oggi sei morto. Capita a tutti, prima o poi. A te prima."
+      },
+      {
+        "m_Id": 2871197758,
+        "m_Localized": "Oggi ti ha preso. Fa male? Non ricordo se fa male."
+      },
+      {
+        "m_Id": 2871197759,
+        "m_Localized": "Oggi ti ha preso. Non mi è piaciuto. Resta nella luce, ok?"
+      },
+      {
+        "m_Id": 2871197760,
+        "m_Localized": "Non spaventarmi più così. Ho bisogno che tu ce la faccia. Per favore."
+      },
+      {
+        "m_Id": 2871197761,
+        "m_Localized": "Hai raccolto %%N%% cose che non sono palline. Nessuno ti paga per quello."
+      },
+      {
+        "m_Id": 2871197762,
+        "m_Localized": "%%N%% ritrovamenti oggi. Guardi con attenzione. Anch'io guardavo con attenzione, una volta."
+      },
+      {
+        "m_Id": 2871197763,
+        "m_Localized": "Oggi hai trovato %%N%% cose! Fammele vedere, prima o poi. Beh. Descrivimele."
+      },
+      {
+        "m_Id": 2871197764,
+        "m_Localized": "%%N%% ritrovamenti. Bene. Ricorda tutto quello che vedi là fuori. Conta."
+      },
+      {
+        "m_Id": 2871197749,
+        "m_Localized": "Oggi si è riempita una vasca. Ne metteranno una nuova. Lo fanno sempre."
+      },
+      {
+        "m_Id": 2871197750,
+        "m_Localized": "Una vasca intera, piena. Uh. La maggior parte non arriva mai così lontano."
+      },
+      {
+        "m_Id": 2871197751,
+        "m_Localized": "Oggi hai riempito una vasca! Ho guardato il contatore scendere. Pallina per pallina."
+      },
+      {
+        "m_Id": 2871197752,
+        "m_Localized": "Un'altra vasca piena. Ti avvicini. Più di quanto io sia mai arrivato."
+      },
+      {
+        "m_Id": 2871197777,
+        "m_Localized": "Solo %%N%% palline oggi. Loro lo notano, sai."
+      },
+      {
+        "m_Id": 2871197778,
+        "m_Localized": "Giornata tranquilla. %%N%% palline. Anch'io ho giornate tranquille. Tutte, in realtà."
+      },
+      {
+        "m_Id": 2871197779,
+        "m_Localized": "Solo %%N%% oggi? Va bene. Riposati. Faccio la guardia io."
+      },
+      {
+        "m_Id": 2871197780,
+        "m_Localized": "Giornata lenta. Va bene. Ma non restare troppo. Nessuno dovrebbe restare troppo."
+      },
+      {
+        "m_Id": 2871197753,
+        "m_Localized": "%%N%% palline oggi. Più che mai. L'azienda sarà contenta."
+      },
+      {
+        "m_Id": 2871197754,
+        "m_Localized": "%%N%% palline. Il tuo giorno migliore finora. Tengo una lista. Adesso anche su di te."
+      },
+      {
+        "m_Id": 2871197755,
+        "m_Localized": "%%N%% palline! Nuovo record! Te l'avevo detto che saresti stato bravo."
+      },
+      {
+        "m_Id": 2871197756,
+        "m_Localized": "%%N%%. Il tuo giorno migliore. Continua così e uscirai di qui."
+      },
+      {
+        "m_Id": 2871197773,
+        "m_Localized": "%%Room%%: %%N%% palline oggi. Non affezionarti a una stanza."
+      },
+      {
+        "m_Id": 2871197774,
+        "m_Localized": "Ancora %%Room%%, %%N%% palline. Piaceva anche a me quella stanza. Credo."
+      },
+      {
+        "m_Id": 2871197775,
+        "m_Localized": "%%Room%%, %%N%% palline! Tu e quella stanza siete una bella squadra."
+      },
+      {
+        "m_Id": 2871197776,
+        "m_Localized": "%%Room%%: %%N%%. Svuotala. Ogni stanza finita ti avvicina alla porta."
+      },
+      {
+        "m_Id": 2871197765,
+        "m_Localized": "%%N%% potenziamenti oggi. Li spendi per te. Sensato."
+      },
+      {
+        "m_Id": 2871197766,
+        "m_Localized": "%%N%% potenziamenti nuovi. Io non ne ho mai comprato uno. Nessuno mi ha detto che si poteva."
+      },
+      {
+        "m_Id": 2871197767,
+        "m_Localized": "%%N%% potenziamenti! Più veloce, più forte, migliore. Mi piace il nuovo te."
+      },
+      {
+        "m_Id": 2871197768,
+        "m_Localized": "%%N%% potenziamenti. Bene. Ti serviranno tutti per l'ultimo tratto."
+      },
+      {
+        "m_Id": 2871197769,
+        "m_Localized": "Oggi hai camminato %%N%% metri. In tondo, per lo più."
+      },
+      {
+        "m_Id": 2871197770,
+        "m_Localized": "%%N%% metri. L'edificio è più grande di quanto sembri. Vero?"
+      },
+      {
+        "m_Id": 2871197771,
+        "m_Localized": "%%N%% metri oggi! Poveri piedi. I miei hanno smesso di far male da un pezzo."
+      },
+      {
+        "m_Id": 2871197772,
+        "m_Localized": "%%N%% metri. Adesso conosci la strada. Non dimenticarla."
+      },
+      {
+        "m_Id": 2871197731,
+        "m_Localized": "Mille unità immagazzinate. Chissà da dove vengono tutte."
+      },
+      {
+        "m_Id": 2871197733,
+        "m_Localized": "Già dieci giorni. Ti ricordi ancora com'è fuori? Nemmeno io."
+      },
+      {
+        "m_Id": 2871197730,
+        "m_Localized": "L'ultimo dipendente non ha resistito così a lungo. Ma tu te la cavi benissimo."
+      },
+      {
+        "m_Id": 2871197732,
+        "m_Localized": "Cinque giorni. È un nuovo record. Credo. I fascicoli sono incompleti."
+      },
+      {
+        "m_Id": 2871197726,
+        "m_Localized": "Continui a tornare. Non tutti lo fanno."
+      },
+      {
+        "m_Id": 2871197725,
+        "m_Localized": "Eri via. Ho aspettato. Mi piace aspettare."
+      },
+      {
+        "m_Id": 2871197728,
+        "m_Localized": "La gatta non è nell'inventario. L'ho vista lo stesso."
+      },
+      {
+        "m_Id": 2871197727,
+        "m_Localized": "Hai segnalato qualcosa? Le Risorse umane lo leggeranno di sicuro. Prima o poi."
+      },
+      {
+        "m_Id": 2871197729,
+        "m_Localized": "I robot parlano di te. Solo cose buone. Per lo più."
+      },
+      {
+        "m_Id": 2871197748,
+        "m_Localized": "Mi sballotti parecchio. L'ultimo non lo faceva mai."
+      },
+      {
+        "m_Id": 2871197740,
+        "m_Localized": "Ooh, un aggiornamento! Con report.exe puoi segnalare tutto quello che ti sembra strano. L'azienda se ne occupa subito. Finora se n'è sempre occupata."
+      },
+      {
+        "m_Id": 2871197741,
+        "m_Localized": "Nuovo programma! Con report.exe puoi avvisare l'azienda quando qualcosa ti sembra strano. Adorano ricevere posta."
+      },
+      {
+        "m_Id": 2871197701,
+        "m_Localized": "I Servizi tecnici ti hanno lasciato qualcosa. Attrezzi. Per là fuori. Ti serviranno."
+      },
+      {
+        "m_Id": 2871197702,
+        "m_Localized": "I Servizi tecnici ti hanno lasciato qualcosa. Attrezzi, per fare più in fretta là fuori."
+      },
+      {
+        "m_Id": 2871197700,
+        "m_Localized": "Oh, c'è qualcosa di nuovo sul desktop. Ogni pallina immagazzinata frutta qualche soldo. C'è chi lo spende per sé. Era solo un'idea."
+      },
+      {
+        "m_Id": 2871197742,
+        "m_Localized": "Ooh, statistiche.exe! Mostra tutto quello che hai fatto finora. E quante volte sei morto. L'azienda conta anche quello."
+      },
+      {
+        "m_Id": 2871197743,
+        "m_Localized": "Nuovo programma! statistiche.exe mostra tutto quello che hai fatto finora. Mica poco, eh?"
+      },
+      {
+        "m_Id": 2871197744,
+        "m_Localized": "Uiii!"
+      },
+      {
+        "m_Id": 2871197745,
+        "m_Localized": "Ancora! No, aspetta!"
+      },
+      {
+        "m_Id": 2871197746,
+        "m_Localized": "Gira tutto. È normale?"
+      },
+      {
+        "m_Id": 2871197747,
+        "m_Localized": "Adesso basta. Non ti parlo più."
+      },
+      {
+        "m_Id": 2820866048,
+        "m_Localized": "Prima leggi la posta. Lì c'è scritto perché sei qui. Io aspetto. Mi piace aspettare."
+      },
+      {
+        "m_Id": 4735532321611784,
+        "m_Localized": "Nuovo programma! In schermo.exe puoi ridecorare la scrivania. All'azienda non dispiace. Non ancora."
+      },
+      {
+        "m_Id": 4735532321611785,
+        "m_Localized": "Nuovo programma! In schermo.exe puoi ridecorare la scrivania!"
+      },
+      {
+        "m_Id": 4735532292251648,
+        "m_Localized": "Ooh, personale.exe! Tu e tutti gli altri dipendenti lavorate a un obiettivo enorme. Tutti insieme. L'azienda tiene il conto."
+      },
+      {
+        "m_Id": 4735532321611776,
+        "m_Localized": "Ooh, personale.exe! Tu e tutti gli altri dipendenti lavorate a un obiettivo enorme. Tutti insieme!"
+      },
+      {
+        "m_Id": 4735532321611777,
+        "m_Localized": "Non dimenticare personale.exe. Ogni pallina conta. L'azienda non ne dimentica nessuna."
+      },
+      {
+        "m_Id": 4735532321611778,
+        "m_Localized": "Non dimenticare personale.exe. Ogni pallina conta!"
+      },
+      {
+        "m_Id": 4735532321611779,
+        "m_Localized": "Tutti insieme avete raggiunto il primo obiettivo! Ora c'è un nuovo programma. L'azienda è soddisfatta. Per ora."
+      },
+      {
+        "m_Id": 4735532321611780,
+        "m_Localized": "Tutti insieme avete raggiunto il primo obiettivo! Ora c'è un nuovo programma."
+      },
+      {
+        "m_Id": 4735532321611781,
+        "m_Localized": "Anche il secondo obiettivo! Ho dei costumi nuovi. Sono in spogliatoio.exe. Qualcuno li ha scelti per me."
+      },
+      {
+        "m_Id": 4735532321611782,
+        "m_Localized": "Anche il secondo obiettivo! Ho dei costumi nuovi. Sono in spogliatoio.exe!"
+      },
+      {
+        "m_Id": 4735532321611783,
+        "m_Localized": "Un miliardo di palline! Tutti voi insieme! Sono così fiero di voi."
+      },
+      {
+        "m_Id": 4975569672536064,
+        "m_Localized": "Novità nel mio spogliatoio! Qualcosa da indossare. Guarda in spogliatoio.exe, me lo provo. L'azienda lo permette. Probabilmente."
+      },
+      {
+        "m_Id": 4975569685118976,
+        "m_Localized": "Novità nel mio spogliatoio! Qualcosa da indossare. Guarda in spogliatoio.exe, me lo provo!"
+      }
+    ]
+  }
+}

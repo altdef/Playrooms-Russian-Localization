@@ -1,0 +1,266 @@
+{
+  "m_Name": "Mails_it",
+  "m_LocaleId": {
+    "m_Code": "it"
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 15278763027341312,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nOggi è il Suo decimo giorno di lavoro. La Sua anzianità di servizio è stata adeguata di conseguenza.\n\nNon è previsto alcun omaggio.\n\nCordiali saluti,\nWendberger, Supervisione turni\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278763006369792,
+        "m_Localized": "La Sua anzianità di servizio"
+      },
+      {
+        "m_Id": 10768935713480704,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nDurante il periodo di prova alcune aree dell'edificio Le restano precluse. Le relative chiavi Le saranno consegnate con l'assunzione definitiva.\n\nQualora desideri proseguire la collaborazione con noi, ci aggiunga alla Sua lista dei desideri. La contatteremo non appena le aree rimanenti saranno aperte.\n\nCordiali saluti,\nWendberger, Supervisione turni\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 10768935629594624,
+        "m_Localized": "Il Suo periodo di prova"
+      },
+      {
+        "m_Id": 15278762544996352,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nLa Sua presenza durante l'ultimo periodo di riposo è stata registrata.\n\nI rumori durante il periodo di riposo non sono soggetti a segnalazione.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762524024832,
+        "m_Localized": "Conferma di presenza"
+      },
+      {
+        "m_Id": 15278762666631168,
+        "m_Localized": "Le è stata consegnata una lampada portatile.\n\nLa lampada portatile viene ricaricata solo dopo lo scaricamento completo. All'inizio di ogni turno è completamente carica.\n\nNon vengono fornite batterie di ricambio.\n\nServizi tecnici\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762649853952,
+        "m_Localized": "Consegna attrezzatura: lampada portatile"
+      },
+      {
+        "m_Id": 16736673838858240,
+        "m_Localized": "Il catalogo delle attrezzature è ora a Sua disposizione: shop.exe.\n\nLì può ordinare strumenti di lavoro. I costi vengono detratti dalla Sua retribuzione.\n\nLe attrezzature smarrite o danneggiate non vengono sostituite.\n\nServizi tecnici\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 16736673830469633,
+        "m_Localized": "Novità sul Suo computer: shop.exe"
+      },
+      {
+        "m_Id": 16736673830469632,
+        "m_Localized": "Sulla Sua postazione di lavoro è stata installata l'applicazione abilità.exe.\n\nLì può prenotare corsi di aggiornamento. I costi vengono detratti dalla Sua retribuzione.\n\nLa partecipazione è volontaria. Le nostre aspettative nei Suoi confronti restano invariate.\n\nQuesto messaggio è stato generato automaticamente.\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 16736673775943680,
+        "m_Localized": "Novità sul Suo computer: abilità.exe"
+      },
+      {
+        "m_Id": 16736673847246848,
+        "m_Localized": "Gentile dipendente,\n\nPer favorire la Sua autoriflessione abbiamo installato statistiche.exe sul Suo computer.\n\nLì può consultare le Sue prestazioni finora.\n\nAnche le Risorse umane possono vederle.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 16736673838858241,
+        "m_Localized": "Novità sul Suo computer: statistiche.exe"
+      },
+      {
+        "m_Id": 15278762826014720,
+        "m_Localized": "La Sua chiave è stata abilitata per il Backroom.\n\nI corridoi del Backroom non sono numerati. L'illuminazione del Backroom è conforme ai requisiti.\n\nServizi tecnici\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762805043200,
+        "m_Localized": "Autorizzazione di accesso: Backroom"
+      },
+      {
+        "m_Id": 19619604567040000,
+        "m_Localized": "La Sua chiave è stata abilitata per l'Hotel.\n\nSegua il piano di pulizia nel corridoio e spunti ogni camera completata.\n\nMemorizzi i numeri delle camere. Non è necessario memorizzare la strada per raggiungerle.\n\nServizi tecnici\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 19619604512514048,
+        "m_Localized": "Autorizzazione di accesso: Hotel"
+      },
+      {
+        "m_Id": 15278763077672960,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nLa Sua chiave è stata abilitata per l'Ufficio. La mia scrivania si trova lì. Non mi troverà lì.\n\nSe il telefono squilla, risponda senza indugio.\n\nPresti particolare attenzione nel chiamare gli ascensori.\n\nCordiali saluti,\nWendberger, Supervisione turni\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278763056701440,
+        "m_Localized": "Autorizzazione di accesso: Ufficio"
+      },
+      {
+        "m_Id": 15278762905706496,
+        "m_Localized": "La Sua chiave è stata abilitata per la Sala della piscina.\n\nL'acqua non è destinata al consumo. Le unità sulla superficie dell'acqua non si considerano immagazzinate.\n\nServizi tecnici\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762888929280,
+        "m_Localized": "Autorizzazione di accesso: Sala della piscina"
+      },
+      {
+        "m_Id": 15278762750517248,
+        "m_Localized": "La Sua chiave è stata abilitata per la Sala d'attesa.\n\nLe porte della Sala d'attesa conducono alla Sala d'attesa.\n\nServizi tecnici\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762729545728,
+        "m_Localized": "Autorizzazione di accesso: Sala d'attesa"
+      },
+      {
+        "m_Id": 15278762867957760,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nL'obiettivo trimestrale della vasca di raccolta 10.000 è stato raggiunto al 100%.\n\nÈ stato emesso un attestato a Suo nome. Viene custodito per Lei in Ufficio.\n\nL'obiettivo del trimestre successivo non Le verrà comunicato separatamente.\n\nCordiali saluti,\nWendberger, Supervisione turni\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762846986240,
+        "m_Localized": "Obiettivo trimestrale raggiunto"
+      },
+      {
+        "m_Id": 15647842078695424,
+        "m_Localized": "Quota di immagazzinamento, vasca di raccolta 5.000: 100%.\n\nÈ stata concessa l'autorizzazione ACCOVACCIATA-01. Accovacciarsi sotto gli arredi fissi è consentito con effetto immediato.\n\nQuesto messaggio è stato generato automaticamente.\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15647842053529600,
+        "m_Localized": "Autorizzazione concessa: postura ACCOVACCIATA"
+      },
+      {
+        "m_Id": 15278762708574208,
+        "m_Localized": "Quota di immagazzinamento, vasca di raccolta 1.500: 100%.\n\nÈ stata concessa l'autorizzazione CORSA-01. Correre nei corridoi è consentito con effetto immediato.\n\nQuesto messaggio è stato generato automaticamente.\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762687602688,
+        "m_Localized": "Autorizzazione concessa: andatura CORSA"
+      },
+      {
+        "m_Id": 15278763123810304,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nLa Sua posizione è stata rivalutata. La valutazione è conclusa.\n\nLa Sua retribuzione resta invariata. Il colloquio semestrale è annullato.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278763098644480,
+        "m_Localized": "Rivalutazione della Sua posizione"
+      },
+      {
+        "m_Id": 15278762624688128,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nL'obiettivo trimestrale della vasca di raccolta 2.500 è stato raggiunto al 100%.\n\nNella sala relax è stata messa a Sua disposizione una gratifica. Il controvalore sarà detratto dalla Sua prossima retribuzione.\n\nUfficio paghe\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762603716608,
+        "m_Localized": "Gratifica di fidelizzazione del personale"
+      },
+      {
+        "m_Id": 15278763161559040,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nTutte le unità sono state immagazzinate. L'inventario è completo.\n\nLa Sua posizione sarà nuovamente bandita al termine del turno in corso.\n\nResti alla Sua postazione di lavoro fino all'arrivo di chi Le succederà.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278763144781824,
+        "m_Localized": "Inventario completo"
+      },
+      {
+        "m_Id": 16141969698463744,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nLa Sua segnalazione di avvistamento è stata interamente evasa.\n\nEsito: nessun riscontro.\n\nLa pratica è da considerarsi chiusa. Non sono previste domande ulteriori.\n\nLe auguriamo un piacevole turno.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 16140300319334401,
+        "m_Localized": "La Sua segnalazione è stata chiusa"
+      },
+      {
+        "m_Id": 16141969694269440,
+        "m_Localized": "Gentile dipendente,\n\nDi recente abbiamo ricevuto diverse lamentele dai Suoi colleghi riguardo a cosiddette \"anomalie\" e \"avvistamenti\".\n\nIl Suo benessere ci sta molto a cuore. Per questo stanotte abbiamo installato un aggiornamento sul Suo computer: report.exe.\n\nSe dovesse notare qualcosa di insolito, ci invii semplicemente una segnalazione ogni volta che ne sente il bisogno. Ogni segnalazione viene valutata immediatamente.\n\nFino ad allora, La preghiamo di continuare a lavorare come di consueto.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 16140300315140096,
+        "m_Localized": "Novità sul Suo computer: report.exe"
+      },
+      {
+        "m_Id": 15278762985398272,
+        "m_Localized": "È stato registrato un evento non autorizzato con il coinvolgimento di attrezzature.\n\nLe attrezzature non organizzano eventi. Nessun impianto audio risulta in inventario.\n\nSegnali osservazioni di questo tipo alla Sua supervisione turni.\n\nQuesto messaggio è stato generato automaticamente.\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762968621056,
+        "m_Localized": "Irregolarità registrata"
+      },
+      {
+        "m_Id": 15278762943455232,
+        "m_Localized": "Attrezzatura acquisita: stazione di ricarica (1).\n\nLa Sua posizione è stata segnalata per una verifica del potenziale di automazione. Il periodo di verifica è a tempo indeterminato.\n\nQuesto messaggio è stato generato automaticamente.\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762922483712,
+        "m_Localized": "Nota di verifica sulla Sua posizione"
+      },
+      {
+        "m_Id": 20643589774311424,
+        "m_Localized": "Nel catalogo delle attrezzature è ora disponibile il rilevamento d'inventario IS-95 (Scanner).\n\nIl rilevamento avviene alla pressione di un tasto e comprende le unità non immagazzinate nelle Sue immediate vicinanze. Il canone di licenza viene detratto dalla Sua retribuzione. Non è previsto alcun premio d'inventario.\n\nQuesto messaggio è stato generato automaticamente.\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 20643589753339904,
+        "m_Localized": "Approvazione: rilevamento d'inventario"
+      },
+      {
+        "m_Id": 15278762406584320,
+        "m_Localized": "Servizi tecnici"
+      },
+      {
+        "m_Id": 15278762331086848,
+        "m_Localized": "Risorse umane"
+      },
+      {
+        "m_Id": 15278762427555840,
+        "m_Localized": "Ufficio paghe"
+      },
+      {
+        "m_Id": 22581093073920000,
+        "m_Localized": "Presidenza"
+      },
+      {
+        "m_Id": 3595542528,
+        "m_Localized": "Wendberger, Supervisione turni"
+      },
+      {
+        "m_Id": 15278762444333056,
+        "m_Localized": "Notifica automatica"
+      },
+      {
+        "m_Id": 15278762784071680,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nIl sondaggio annuale tra il personale è concluso. Per non gravare sul Suo orario di lavoro, le Risorse umane hanno compilato il questionario al posto Suo.\n\nLei è soddisfatto/a. I risultati non saranno pubblicati.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 15278762767294464,
+        "m_Localized": "Risultati del sondaggio tra il personale"
+      },
+      {
+        "m_Id": 22581093115863041,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nCi sono pervenute richieste riguardo alla Presidenza.\n\nIl posto di Preside è occupato. È sempre stato occupato. Non è mai stato bandito.\n\nAlla Preside piace sorridere.\n\nNon sono previste ulteriori richieste riguardo alla Preside.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 22581093115863040,
+        "m_Localized": "Nota riguardo alla Presidenza"
+      },
+      {
+        "m_Id": 22581093111668737,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nLa Sua chiave è stata abilitata per l'edificio scolastico. Da questo momento lì è sotto la mia sorveglianza.\n\nNell'edificio scolastico vige il regolamento interno:\n1. Nei corridoi non si corre.\n2. I gradini non si contano.\n\nLa tengo d'occhio.\n\nLa Preside\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 22581093111668736,
+        "m_Localized": "Regolamento interno: edificio scolastico"
+      },
+      {
+        "m_Id": 22581093120057345,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nÈ stato/a visto/a correre nel corridoio.\n\nQuesto è il Suo primo richiamo. È stato annotato nel Suo fascicolo. Non ne emetto un secondo.\n\nSe mi vede, continui a camminare. Lentamente.\n\nLa Preside\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 22581093120057344,
+        "m_Localized": "Richiamo"
+      },
+      {
+        "m_Id": 3620708352,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nLe diamo il benvenuto al Suo primo giorno di lavoro. Il Suo turno inizia non appena avvia l'applicazione luce.exe.\n\nIl Suo compito è l'immagazzinamento di tutte le unità nelle apposite vasche di raccolta.\n\nIl Suo turno termina con l'inizio del periodo di riposo. Si rechi allora alla Sua postazione di lavoro. Lì è possibile acquistare attrezzature; i costi saranno detratti dalla Sua retribuzione.\n\nDurante il periodo di riposo non lasci la sala relax.\n\nAl termine di ogni periodo di riposo avvii l'applicazione luce.exe.\n\nCordiali saluti,\nWendberger, Supervisione turni\n\nPlayrooms Inc.\nSiamo sempre qui per Lei."
+      },
+      {
+        "m_Id": 3616514048,
+        "m_Localized": "Inizio del Suo rapporto di lavoro"
+      },
+      {
+        "m_Id": 25453339908644864,
+        "m_Localized": "Gentile Responsabile della gestione dell'inventario,\n\nfino al 15/11 tutti i dipendenti di Playrooms Inc. lavorano a un obiettivo comune del personale: un miliardo di palline stoccate.\n\nOgni pallina che lei stocca viene accreditata al personale al risveglio. Può seguire il totale attuale in personale.exe.\n\nIl raggiungimento dell'obiettivo sarà adeguatamente riconosciuto.\n\nRisorse umane\n\nPlayrooms Inc.\nSiamo sempre qui per lei."
+      },
+      {
+        "m_Id": 25453339875090432,
+        "m_Localized": "Novità sul suo computer: personale.exe"
+      }
+    ]
+  }
+}

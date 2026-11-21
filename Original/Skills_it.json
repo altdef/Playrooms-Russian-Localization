@@ -1,0 +1,618 @@
+{
+  "m_Name": "Skills_it",
+  "m_LocaleId": {
+    "m_Code": "it"
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 70875587280897,
+        "m_Localized": "+%%Value%% pallina/e in più per raccolta"
+      },
+      {
+        "m_Id": 87256030511107,
+        "m_Localized": "Tasche grandi"
+      },
+      {
+        "m_Id": 87256030511108,
+        "m_Localized": "Porti più palline prima di doverle consegnare a una vasca."
+      },
+      {
+        "m_Id": 87256030511109,
+        "m_Localized": "+%%Value%% di capacità di trasporto"
+      },
+      {
+        "m_Id": 1549569572995072,
+        "m_Localized": "Presa rapida"
+      },
+      {
+        "m_Id": 1549569627521024,
+        "m_Localized": "Accorcia la pausa obbligatoria tra una raccolta di palline e l'altra."
+      },
+      {
+        "m_Id": 8333112300773376,
+        "m_Localized": "Vasca delle palline"
+      },
+      {
+        "m_Id": 1152108150628352,
+        "m_Localized": "Mani svelte"
+      },
+      {
+        "m_Id": 33750645716746240,
+        "m_Localized": "tutto in una volta"
+      },
+      {
+        "m_Id": 1152108159016960,
+        "m_Localized": "Getti le palline nella vasca più in fretta. L'ultimo livello consegna tutto in una volta."
+      },
+      {
+        "m_Id": 14222084974190592,
+        "m_Localized": "Bocchetta di aspirazione"
+      },
+      {
+        "m_Id": 14222085045493762,
+        "m_Localized": "Forza di aspirazione"
+      },
+      {
+        "m_Id": 14222085045493763,
+        "m_Localized": "La bocchetta tira più forte: le palline partono appena entrano invece di arrivarci alla deriva."
+      },
+      {
+        "m_Id": 14222085007745024,
+        "m_Localized": "Portata di aspirazione"
+      },
+      {
+        "m_Id": 14222085007745025,
+        "m_Localized": "Allarga l'imboccatura, le palline vengono catturate da più lontano. Ogni bocchetta del livello cresce dello stesso fattore."
+      },
+      {
+        "m_Id": 14222085045493760,
+        "m_Localized": "Velocità di aspirazione"
+      },
+      {
+        "m_Id": 14222085045493761,
+        "m_Localized": "Le palline corrono più veloci una volta che la bocchetta le ha prese."
+      },
+      {
+        "m_Id": 14222085045493764,
+        "m_Localized": "Flusso"
+      },
+      {
+        "m_Id": 14222085045493765,
+        "m_Localized": "Quante palline una bocchetta ingoia in una volta. Un intero carico di scopa non si incastra più all'imboccatura."
+      },
+      {
+        "m_Id": 28772615646224384,
+        "m_Localized": "Caffè"
+      },
+      {
+        "m_Id": 28772615751081984,
+        "m_Localized": "Caffè ristretto"
+      },
+      {
+        "m_Id": 28772615751081985,
+        "m_Localized": "Il caffè La tiene sveglio più a lungo."
+      },
+      {
+        "m_Id": 33109136226525184,
+        "m_Localized": "Tutto il giorno"
+      },
+      {
+        "m_Id": 33756075352326144,
+        "m_Localized": "Velocità a piedi +10%"
+      },
+      {
+        "m_Id": 33756075415240704,
+        "m_Localized": "+1 pallina per raccolta"
+      },
+      {
+        "m_Id": 35955719067074560,
+        "m_Localized": "Straordinario: giorno +60 s"
+      },
+      {
+        "m_Id": 33756075415240706,
+        "m_Localized": "La resistenza recupera il 50% più in fretta"
+      },
+      {
+        "m_Id": 33756075415240707,
+        "m_Localized": "Corsa più veloce"
+      },
+      {
+        "m_Id": 33756075415240705,
+        "m_Localized": "Resistenza max +25"
+      },
+      {
+        "m_Id": 28772615801413632,
+        "m_Localized": "Miscela speciale"
+      },
+      {
+        "m_Id": 33764883441057792,
+        "m_Localized": "Effetti attivi"
+      },
+      {
+        "m_Id": 28772615801413633,
+        "m_Localized": "Ogni miscela dà una spinta in più al Suo caffè."
+      },
+      {
+        "m_Id": 33764883474612225,
+        "m_Localized": "Potenziamenti successivi"
+      },
+      {
+        "m_Id": 33764883474612224,
+        "m_Localized": "Dopo il potenziamento"
+      },
+      {
+        "m_Id": 1122650878353408,
+        "m_Localized": "Accovacciarsi"
+      },
+      {
+        "m_Id": 33766389015838720,
+        "m_Localized": "Si accovacci con %%Key%%"
+      },
+      {
+        "m_Id": 5000000000000001,
+        "m_Localized": "Giornate più lunghe"
+      },
+      {
+        "m_Id": 5000000000000002,
+        "m_Localized": "Allunga il giorno prima che cali la notte."
+      },
+      {
+        "m_Id": 11251453894041600,
+        "m_Localized": "Torcia"
+      },
+      {
+        "m_Id": 11251453915013122,
+        "m_Localized": "Autonomia"
+      },
+      {
+        "m_Id": 11251453915013123,
+        "m_Localized": "La torcia resiste più a lungo prima di dover essere ricaricata."
+      },
+      {
+        "m_Id": 11251453915013120,
+        "m_Localized": "Intensità del fascio"
+      },
+      {
+        "m_Id": 11251453915013121,
+        "m_Localized": "Un fascio più luminoso respinge il buio più lontano."
+      },
+      {
+        "m_Id": 11251453915013124,
+        "m_Localized": "Portata del fascio"
+      },
+      {
+        "m_Id": 11251453915013125,
+        "m_Localized": "Il fascio arriva più in fondo alle stanze."
+      },
+      {
+        "m_Id": 12027456648093696,
+        "m_Localized": "Ricarica rapida"
+      },
+      {
+        "m_Id": 12027456685842432,
+        "m_Localized": "Una batteria scarica torna piena prima."
+      },
+      {
+        "m_Id": 36598607601926144,
+        "m_Localized": "Cesto di frutta"
+      },
+      {
+        "m_Id": 36598623481561088,
+        "m_Localized": "Regalo delle Risorse umane"
+      },
+      {
+        "m_Id": 36598607664840704,
+        "m_Localized": "Appena colta"
+      },
+      {
+        "m_Id": 36598607664840705,
+        "m_Localized": "Ogni frutto agisce più a lungo (livello 5: tutto il giorno)."
+      },
+      {
+        "m_Id": 36598607702589442,
+        "m_Localized": "Tutto il giorno"
+      },
+      {
+        "m_Id": 36598607702589443,
+        "m_Localized": "Mela: raccoglie palline più in fretta"
+      },
+      {
+        "m_Id": 36598607702589444,
+        "m_Localized": "Banana: la corsa stanca meno"
+      },
+      {
+        "m_Id": 36598607702589446,
+        "m_Localized": "Limone: la torcia dura di più"
+      },
+      {
+        "m_Id": 36598607702589445,
+        "m_Localized": "Pera: portata +30%"
+      },
+      {
+        "m_Id": 36598607702589440,
+        "m_Localized": "Cesto misto"
+      },
+      {
+        "m_Id": 36598607702589441,
+        "m_Localized": "Più tipi di frutta nel cesto ogni mattina."
+      },
+      {
+        "m_Id": 28772646507913216,
+        "m_Localized": "Regalo delle Risorse umane"
+      },
+      {
+        "m_Id": 8333112271413248,
+        "m_Localized": "Mano"
+      },
+      {
+        "m_Id": 35875202141454336,
+        "m_Localized": "Aspiratore manuale"
+      },
+      {
+        "m_Id": 35875202409889796,
+        "m_Localized": "Invio automatico"
+      },
+      {
+        "m_Id": 35875202409889797,
+        "m_Localized": "L'aspiratore manuale manda il serbatoio alle vasche da solo mentre Lei continua a camminare."
+      },
+      {
+        "m_Id": 35920312203935744,
+        "m_Localized": "Cono di aspirazione"
+      },
+      {
+        "m_Id": 35920312224907264,
+        "m_Localized": "L'aspiratore manuale attira palline da un cono più ampio intorno al mirino."
+      },
+      {
+        "m_Id": 35875202409889794,
+        "m_Localized": "Portata del bocchettone"
+      },
+      {
+        "m_Id": 35875202409889795,
+        "m_Localized": "L'aspiratore manuale attira palline da più lontano."
+      },
+      {
+        "m_Id": 35875202409889792,
+        "m_Localized": "Potenza di aspirazione"
+      },
+      {
+        "m_Id": 35875202409889793,
+        "m_Localized": "L'aspiratore manuale ingoia più palline al secondo."
+      },
+      {
+        "m_Id": 35875202154037248,
+        "m_Localized": "Capienza del serbatoio"
+      },
+      {
+        "m_Id": 35875202154037249,
+        "m_Localized": "L'aspiratore manuale contiene più palline prima di dover essere svuotato in una vasca."
+      },
+      {
+        "m_Id": 3705578074382336,
+        "m_Localized": "Raccolta continua"
+      },
+      {
+        "m_Id": 3705578112131072,
+        "m_Localized": "Tenga premuto il tasto di raccolta per aspirare palline senza sosta invece di una per clic."
+      },
+      {
+        "m_Id": 18135327384469504,
+        "m_Localized": "Braccia lunghe"
+      },
+      {
+        "m_Id": 18135327422218240,
+        "m_Localized": "Aumenta la distanza da cui raccoglie palline e usa gli oggetti."
+      },
+      {
+        "m_Id": 21113629137108992,
+        "m_Localized": "Gambe"
+      },
+      {
+        "m_Id": 8333112300773377,
+        "m_Localized": "Luce"
+      },
+      {
+        "m_Id": 5000000000000003,
+        "m_Localized": "Blackout lento"
+      },
+      {
+        "m_Id": 5000000000000004,
+        "m_Localized": "Allunga la pausa tra lo spegnimento di un gruppo di luci e il successivo, dandoLe più tempo prima della notte."
+      },
+      {
+        "m_Id": 87256005345280,
+        "m_Localized": "Si muova più in fretta"
+      },
+      {
+        "m_Id": 87256030511104,
+        "m_Localized": "Si muova più in fretta"
+      },
+      {
+        "m_Id": 1118955012857856,
+        "m_Localized": "Si muova più in fretta"
+      },
+      {
+        "m_Id": 70875557920768,
+        "m_Localized": "Calamita per palline"
+      },
+      {
+        "m_Id": 70875587280896,
+        "m_Localized": "Raccoglie anche le palline vicine quando ne prende una."
+      },
+      {
+        "m_Id": 27253933217087488,
+        "m_Localized": "Robot aspirapolvere"
+      },
+      {
+        "m_Id": 27253933280002050,
+        "m_Localized": "Batteria grande"
+      },
+      {
+        "m_Id": 27253933280002051,
+        "m_Localized": "Quanto a lungo un robot gira con una carica."
+      },
+      {
+        "m_Id": 27253933259030528,
+        "m_Localized": "Serbatoio del robot"
+      },
+      {
+        "m_Id": 27253933259030529,
+        "m_Localized": "Quante palline un robot trasporta prima di tornare alla base."
+      },
+      {
+        "m_Id": 28703035742158848,
+        "m_Localized": "Robot impilati"
+      },
+      {
+        "m_Id": 28703035779907584,
+        "m_Localized": "Porti più robot in una volta; all'ultimo livello, tutti."
+      },
+      {
+        "m_Id": 27253933275807744,
+        "m_Localized": "Ricarica rapida"
+      },
+      {
+        "m_Id": 27253933275807745,
+        "m_Localized": "Quanto in fretta un robot alla stazione ricarica la batteria."
+      },
+      {
+        "m_Id": 27267114211672064,
+        "m_Localized": "Motore turbo"
+      },
+      {
+        "m_Id": 27267114236837888,
+        "m_Localized": "I robot corrono più veloci e aspirano palline più in fretta."
+      },
+      {
+        "m_Id": 27253933280002048,
+        "m_Localized": "Scarico rapido"
+      },
+      {
+        "m_Id": 27253933280002049,
+        "m_Localized": "Quanto in fretta un robot svuota il serbatoio nelle vasche."
+      },
+      {
+        "m_Id": 36285363158974464,
+        "m_Localized": "Scanner d'inventario"
+      },
+      {
+        "m_Id": 36285363217694724,
+        "m_Localized": "Tempo di attesa"
+      },
+      {
+        "m_Id": 36285363217694725,
+        "m_Localized": "Lo scanner è pronto prima per la scansione successiva."
+      },
+      {
+        "m_Id": 36285363217694722,
+        "m_Localized": "Durata della marcatura"
+      },
+      {
+        "m_Id": 36285363217694723,
+        "m_Localized": "Le unità rilevate restano evidenziate più a lungo."
+      },
+      {
+        "m_Id": 36285363217694720,
+        "m_Localized": "Portata di scansione"
+      },
+      {
+        "m_Id": 36285363217694721,
+        "m_Localized": "L'onda di scansione arriva più lontano e rileva unità più distanti."
+      },
+      {
+        "m_Id": 11265756915277824,
+        "m_Localized": "Scopa a spinta"
+      },
+      {
+        "m_Id": 13805119763095552,
+        "m_Localized": "Spinta infinita"
+      },
+      {
+        "m_Id": 13805119813427200,
+        "m_Localized": "La scopa continua a spingere finché tiene premuto il tasto."
+      },
+      {
+        "m_Id": 11265756919472128,
+        "m_Localized": "Carico"
+      },
+      {
+        "m_Id": 11265756919472129,
+        "m_Localized": "Quante palline la scopa spinge in una volta. Ciò che non ci sta resta indietro."
+      },
+      {
+        "m_Id": 11265756919472132,
+        "m_Localized": "Lancio"
+      },
+      {
+        "m_Id": 11265756919472133,
+        "m_Localized": "Rilasciando il tasto la scopa scaglia il mucchio in avanti: è così che lo si manda in una bocchetta. Ogni livello lancia più forte e più lontano."
+      },
+      {
+        "m_Id": 13836282477125632,
+        "m_Localized": "Ritmo di spinta"
+      },
+      {
+        "m_Id": 13836282527457280,
+        "m_Localized": "Spingere un mucchio con la scopa La rallenta. Ogni livello La fa camminare più veloce mentre spinge; l'ultimo, perfino più veloce che senza scopa."
+      },
+      {
+        "m_Id": 11265756919472130,
+        "m_Localized": "Larghezza di spazzata"
+      },
+      {
+        "m_Id": 11265756919472131,
+        "m_Localized": "Una testa di scopa più larga prende più palline in una volta."
+      },
+      {
+        "m_Id": 1760843530240,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 12804844200132608,
+        "m_Localized": "Livello"
+      },
+      {
+        "m_Id": 1718878208,
+        "m_Localized": "Al massimo"
+      },
+      {
+        "m_Id": 8373961751502848,
+        "m_Localized": "I potenziamenti si comprano di notte, a letto"
+      },
+      {
+        "m_Id": 1718878209,
+        "m_Localized": "Azzera"
+      },
+      {
+        "m_Id": 1685323776,
+        "m_Localized": "Abilità"
+      },
+      {
+        "m_Id": 1714683904,
+        "m_Localized": "Sblocca"
+      },
+      {
+        "m_Id": 1122650874159104,
+        "m_Localized": "Correre"
+      },
+      {
+        "m_Id": 21113629195829248,
+        "m_Localized": "Fiato per la corsa"
+      },
+      {
+        "m_Id": 87256030511105,
+        "m_Localized": "Correre consuma meno resistenza"
+      },
+      {
+        "m_Id": 87256030511106,
+        "m_Localized": "Correre consuma meno resistenza"
+      },
+      {
+        "m_Id": 1118910012170240,
+        "m_Localized": "Correre consuma meno resistenza"
+      },
+      {
+        "m_Id": 21113629195829249,
+        "m_Localized": "Allunga il tempo per cui riesce a correre prima di restare senza fiato."
+      },
+      {
+        "m_Id": 33766388978089984,
+        "m_Localized": "Corra con %%Key%%"
+      },
+      {
+        "m_Id": 21113629174857728,
+        "m_Localized": "Velocità di corsa"
+      },
+      {
+        "m_Id": 21113629174857729,
+        "m_Localized": "Quanto veloce va correndo. Il passo non cambia."
+      },
+      {
+        "m_Id": 8333112300773378,
+        "m_Localized": "Aspirapalline"
+      },
+      {
+        "m_Id": 35968848740155392,
+        "m_Localized": "Commutazione automatica"
+      },
+      {
+        "m_Id": 35968848769515520,
+        "m_Localized": "L'aspirapalline inizia a trasferire da solo quando è pieno o non c'è più nulla da aspirare, e riprende ad aspirare appena il serbatoio è vuoto."
+      },
+      {
+        "m_Id": 31289220099874816,
+        "m_Localized": "Velocità di trasferimento"
+      },
+      {
+        "m_Id": 31289220099874817,
+        "m_Localized": "L'aspirapalline manda il serbatoio alle vasche più in fretta mentre continua ad aspirare."
+      },
+      {
+        "m_Id": 11297820167348224,
+        "m_Localized": "Capienza del serbatoio"
+      },
+      {
+        "m_Id": 11297820179931136,
+        "m_Localized": "Nell'aspirapalline entrano più palline prima che sia pieno."
+      },
+      {
+        "m_Id": 11297820179931137,
+        "m_Localized": "Portata di aspirazione"
+      },
+      {
+        "m_Id": 11297820179931138,
+        "m_Localized": "Le palline vengono catturate da più lontano."
+      },
+      {
+        "m_Id": 11297820179931139,
+        "m_Localized": "Velocità di aspirazione"
+      },
+      {
+        "m_Id": 11297820179931140,
+        "m_Localized": "Le palline corrono più veloci una volta che l'aspirapalline le ha prese. Il primo livello attiva innanzitutto la modalità aspirazione."
+      },
+      {
+        "m_Id": 31289219944685568,
+        "m_Localized": "Velocità di svuotamento"
+      },
+      {
+        "m_Id": 31289220036960256,
+        "m_Localized": "Tenere premuto sull'aspirapalline travasa il serbatoio nelle Sue tasche più in fretta. L'ultimo livello consegna tutto in una volta."
+      },
+      {
+        "m_Id": 42144165527166978,
+        "m_Localized": "Un altro pacco la aspetta nella sala relax"
+      },
+      {
+        "m_Id": 42144165434892288,
+        "m_Localized": "La aspetta nella sala relax, vicino alla macchina del caffè"
+      },
+      {
+        "m_Id": 42144165531361280,
+        "m_Localized": "Più robot aspirapolvere"
+      },
+      {
+        "m_Id": 42144165531361281,
+        "m_Localized": "Più robot e stazioni di ricarica nel negozio"
+      },
+      {
+        "m_Id": 42144165527166976,
+        "m_Localized": "Scanner d'inventario"
+      },
+      {
+        "m_Id": 42144165527166977,
+        "m_Localized": "Ora nel negozio del computer"
+      },
+      {
+        "m_Id": 42144165531361282,
+        "m_Localized": "Più aspirapalline"
+      },
+      {
+        "m_Id": 42144165531361283,
+        "m_Localized": "Più apparecchi nel negozio"
+      }
+    ]
+  }
+}

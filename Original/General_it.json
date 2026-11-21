@@ -1,0 +1,3410 @@
+{
+  "m_Name": "General_it",
+  "m_LocaleId": {
+    "m_Code": "it"
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 47577014272,
+        "m_Localized": "Raccogli"
+      },
+      {
+        "m_Id": 19458400256,
+        "m_Localized": "Interagisci"
+      },
+      {
+        "m_Id": 7938462853627904,
+        "m_Localized": "Chiuso a chiave"
+      },
+      {
+        "m_Id": 1412982260367361,
+        "m_Localized": "Dormi"
+      },
+      {
+        "m_Id": 28740012641755136,
+        "m_Localized": "Disegna"
+      },
+      {
+        "m_Id": 18610830209327104,
+        "m_Localized": "Vasca delle palline 4"
+      },
+      {
+        "m_Id": 18610819211862016,
+        "m_Localized": "Vasca delle palline 1"
+      },
+      {
+        "m_Id": 18610876833210368,
+        "m_Localized": "Vasca delle palline 5"
+      },
+      {
+        "m_Id": 18610825905971200,
+        "m_Localized": "Vasca delle palline 2"
+      },
+      {
+        "m_Id": 18610877734985728,
+        "m_Localized": "Vasca delle palline 6"
+      },
+      {
+        "m_Id": 18610879697920000,
+        "m_Localized": "Vasca delle palline 7"
+      },
+      {
+        "m_Id": 18610829336911872,
+        "m_Localized": "Vasca delle palline 3"
+      },
+      {
+        "m_Id": 18610880385785856,
+        "m_Localized": "Vasca delle palline 8"
+      },
+      {
+        "m_Id": 15560367298248706,
+        "m_Localized": "Vasca grande"
+      },
+      {
+        "m_Id": 15560367298248707,
+        "m_Localized": "Vasca principale"
+      },
+      {
+        "m_Id": 15560367298248704,
+        "m_Localized": "Vasca piena"
+      },
+      {
+        "m_Id": 15560367268888576,
+        "m_Localized": "Mancano %%Count%% palline"
+      },
+      {
+        "m_Id": 15560367298248705,
+        "m_Localized": "Vasca piccola"
+      },
+      {
+        "m_Id": 16310161837629440,
+        "m_Localized": "per consegnare"
+      },
+      {
+        "m_Id": 13402644305027072,
+        "m_Localized": "Sblocca per %%Price%%"
+      },
+      {
+        "m_Id": 18526299953037312,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 11263686189600768,
+        "m_Localized": "Impostazioni"
+      },
+      {
+        "m_Id": 9126663334895616,
+        "m_Localized": "No"
+      },
+      {
+        "m_Id": 20733459222843392,
+        "m_Localized": "Riprendi"
+      },
+      {
+        "m_Id": 19991374303678464,
+        "m_Localized": "Esci"
+      },
+      {
+        "m_Id": 18526426432274432,
+        "m_Localized": "Seleziona"
+      },
+      {
+        "m_Id": 9126607676481536,
+        "m_Localized": "Sì"
+      },
+      {
+        "m_Id": 5437701646950400,
+        "m_Localized": "Trasporta (tieni premuto)"
+      },
+      {
+        "m_Id": 29734498947702784,
+        "m_Localized": "Appoggia"
+      },
+      {
+        "m_Id": 13005279235907584,
+        "m_Localized": "Raccogli"
+      },
+      {
+        "m_Id": 30526471883333633,
+        "m_Localized": "Basta caffè per oggi."
+      },
+      {
+        "m_Id": 30526471883333632,
+        "m_Localized": "Bevi il caffè"
+      },
+      {
+        "m_Id": 30526471883333634,
+        "m_Localized": "Buon lavoro. Questo La terrà sveglio/a.\nPer dormire c'è casa.\n\n- Wendberger"
+      },
+      {
+        "m_Id": 30529088067870720,
+        "m_Localized": "OK"
+      },
+      {
+        "m_Id": 30526471862362112,
+        "m_Localized": "Apri il regalo"
+      },
+      {
+        "m_Id": 28263866800734208,
+        "m_Localized": "Tutti gli oggetti trovati!"
+      },
+      {
+        "m_Id": 28244165378899968,
+        "m_Localized": "Esamina"
+      },
+      {
+        "m_Id": 28263866775568384,
+        "m_Localized": "Oggetto trovato!"
+      },
+      {
+        "m_Id": 18533277710417920,
+        "m_Localized": "Lingua cambiata! \nPer visualizzare correttamente tutti i testi, riavvii il gioco. \nVuole riavviare il gioco adesso? I dati non salvati potrebbero andare persi."
+      },
+      {
+        "m_Id": 32645820077187072,
+        "m_Localized": "Tornare al menu principale? I progressi non salvati andranno persi."
+      },
+      {
+        "m_Id": 17384063976316928,
+        "m_Localized": "Uscire dal gioco? I progressi non salvati andranno persi."
+      },
+      {
+        "m_Id": 18531519621758976,
+        "m_Localized": "Applicare le impostazioni?"
+      },
+      {
+        "m_Id": 22083681006125060,
+        "m_Localized": "Trasporta"
+      },
+      {
+        "m_Id": 22083681006125058,
+        "m_Localized": "Accovacciati"
+      },
+      {
+        "m_Id": 22083681006125070,
+        "m_Localized": "Mostra i comandi per"
+      },
+      {
+        "m_Id": 22083681006125072,
+        "m_Localized": "Controller"
+      },
+      {
+        "m_Id": 22083681006125071,
+        "m_Localized": "Tastiera e mouse"
+      },
+      {
+        "m_Id": 22083681006125062,
+        "m_Localized": "Torcia"
+      },
+      {
+        "m_Id": 22083681006125059,
+        "m_Localized": "Interagisci"
+      },
+      {
+        "m_Id": 22083681006125057,
+        "m_Localized": "Salta"
+      },
+      {
+        "m_Id": 22083680934821888,
+        "m_Localized": "Muoviti"
+      },
+      {
+        "m_Id": 22083681006125064,
+        "m_Localized": "Strumento successivo"
+      },
+      {
+        "m_Id": 22083681006125067,
+        "m_Localized": "Indietro"
+      },
+      {
+        "m_Id": 22083681006125068,
+        "m_Localized": "Sinistra"
+      },
+      {
+        "m_Id": 22083681006125069,
+        "m_Localized": "Destra"
+      },
+      {
+        "m_Id": 22083681006125066,
+        "m_Localized": "Avanti"
+      },
+      {
+        "m_Id": 22083681006125065,
+        "m_Localized": "Menu di pausa"
+      },
+      {
+        "m_Id": 22083681006125073,
+        "m_Localized": "Prema un tasto per questa azione"
+      },
+      {
+        "m_Id": 22083681006125063,
+        "m_Localized": "Strumento precedente"
+      },
+      {
+        "m_Id": 22083681006125075,
+        "m_Localized": "Ripristina predefiniti"
+      },
+      {
+        "m_Id": 38039156812873728,
+        "m_Localized": "Scansione inventario"
+      },
+      {
+        "m_Id": 22083681006125056,
+        "m_Localized": "Corri"
+      },
+      {
+        "m_Id": 22083681006125074,
+        "m_Localized": "..."
+      },
+      {
+        "m_Id": 37706641770217472,
+        "m_Localized": "\"Engel\" di noe-3d.at (sketchfab.com/3d-models/engel-0d54d997ca3e4e2cb46141708bb82015), CC0 1.0 (creativecommons.org/publicdomain/zero/1.0), modificato per questo gioco"
+      },
+      {
+        "m_Id": 350717949747200,
+        "m_Localized": "e a tutti i sostenitori anonimi su Patreon"
+      },
+      {
+        "m_Id": 37721661614784512,
+        "m_Localized": "\"Yasu's Backrooms Material Pack\" di @mvyasu, CC BY 4.0 (creativecommons.org/licenses/by/4.0), modificato per questo gioco"
+      },
+      {
+        "m_Id": 37721661635756032,
+        "m_Localized": "\"wooden_broom\" di Balen e \"plastic_broom\" di L via Poly Haven (polyhaven.com), CC0 1.0 (creativecommons.org/publicdomain/zero/1.0)"
+      },
+      {
+        "m_Id": 350753844600832,
+        "m_Localized": "sviluppato da"
+      },
+      {
+        "m_Id": 38352448848592903,
+        "m_Localized": "\"Wicker Basket 01\" e \"Lemon\" di Kuutti Siitonen, \"Food Apple 01\" di Oliver Harries, \"Pears Asian 01\" di Amal Kumar, \"Bananas\" di Alexander Shulha (polyhaven.com), CC0, modificati per questo gioco"
+      },
+      {
+        "m_Id": 39519636615790593,
+        "m_Localized": "Dischi per grammofono (Wikimedia Commons, pubblico dominio): \"The Sirens Waltz\" di Émile Waldteufel, eseguito da Pietro Deiro; \"Maple Leaf Rag\" di Scott Joplin, eseguito dalla United States Marine Band (1906); \"Estudiantina\" di Émile Waldteufel, eseguito dall'Athenian Mandolin Quartet; Valzer in mi bemolle maggiore di Frédéric Chopin, eseguito da Sergej Rachmaninov"
+      },
+      {
+        "m_Id": 37628780761776128,
+        "m_Localized": "\"DOMO Handheld Vacuum Cleaner\" di Jonas Vanelstlande (sketchfab.com/3d-models/e5dc926ec9924849a75636faee0a5815), con licenza CC BY 4.0 (creativecommons.org/licenses/by/4.0), modificato per questo gioco"
+      },
+      {
+        "m_Id": 42467116512321536,
+        "m_Localized": "\"Backrooms Rigged Hazmat\" di Loco (sketchfab.com/3d-models/64d0069ed0cc420d8b3158ab8a3e6405), con licenza CC BY 4.0 (creativecommons.org/licenses/by/4.0), modificato per questo gioco"
+      },
+      {
+        "m_Id": 37284582708740096,
+        "m_Localized": "In memoria di"
+      },
+      {
+        "m_Id": 37288406408232960,
+        "m_Localized": "Lexi ♥️\nla migliore \"Mausi-Pausi\", che ogni giorno ci strappava un sorriso con le sue marachelle"
+      },
+      {
+        "m_Id": 350784475602944,
+        "m_Localized": "Un ringraziamento speciale a:"
+      },
+      {
+        "m_Id": 350816557834240,
+        "m_Localized": "Venite a trovarci! →"
+      },
+      {
+        "m_Id": 350827966341120,
+        "m_Localized": "grazie ai nostri sostenitori su Patreon:"
+      },
+      {
+        "m_Id": 353749282299904,
+        "m_Localized": "grazie per aver giocato!"
+      },
+      {
+        "m_Id": 39291785861275648,
+        "m_Localized": "\"Vintage Video Camera\" di Jenelle van Heerden e James Ray Cock (polyhaven.com), CC0, modificato per questo gioco"
+      },
+      {
+        "m_Id": 41317129837486080,
+        "m_Localized": "Versi di balena (freesound.org, modificati): \"Whale.wav\" di Adrian_Gomar (CC BY 3.0); \"Thar'she blows\" di kaekhor (CC0)"
+      },
+      {
+        "m_Id": 350961882079232,
+        "m_Localized": "Questo gioco usa audio da zapsplat.com e icone da flaticon.com"
+      },
+      {
+        "m_Id": 14155669078016000,
+        "m_Localized": "Prema un tasto qualsiasi per svegliarsi"
+      },
+      {
+        "m_Id": 14150424985862144,
+        "m_Localized": "Giorno %%Day%%"
+      },
+      {
+        "m_Id": 13475554981978112,
+        "m_Localized": "Sblocca l'orologio per %%Price%%"
+      },
+      {
+        "m_Id": 30764705649983488,
+        "m_Localized": "Questo era il Suo turno di prova.\n\nGrazie per aver giocato alla demo di Playrooms, speriamo Le sia piaciuta! Dietro la porta della sala della piscina c'è molto altro ad aspettarLa. Metta Playrooms nella Sua lista dei desideri e saprà subito quando inizia il turno vero."
+      },
+      {
+        "m_Id": 30764705620623360,
+        "m_Localized": "Fine turno"
+      },
+      {
+        "m_Id": 25021166022492160,
+        "m_Localized": "Chiama l'ascensore"
+      },
+      {
+        "m_Id": 38105045440594024,
+        "m_Localized": "Prendi la chiave"
+      },
+      {
+        "m_Id": 24698362244243456,
+        "m_Localized": "Spegni"
+      },
+      {
+        "m_Id": 24698362164551680,
+        "m_Localized": "Accendi"
+      },
+      {
+        "m_Id": 13005279235907587,
+        "m_Localized": "Batteria della torcia scarica"
+      },
+      {
+        "m_Id": 13005279235907586,
+        "m_Localized": "Batteria della torcia quasi scarica"
+      },
+      {
+        "m_Id": 13005279235907588,
+        "m_Localized": "Torcia ricaricata"
+      },
+      {
+        "m_Id": 13781282057068544,
+        "m_Localized": "La torcia si sta ricaricando"
+      },
+      {
+        "m_Id": 38352448848592900,
+        "m_Localized": "Un frutto al giorno. Politica aziendale."
+      },
+      {
+        "m_Id": 38352448848592896,
+        "m_Localized": "Mangia la mela"
+      },
+      {
+        "m_Id": 38352448848592897,
+        "m_Localized": "Mangia la banana"
+      },
+      {
+        "m_Id": 38352448848592899,
+        "m_Localized": "Mangia il limone"
+      },
+      {
+        "m_Id": 38352448848592898,
+        "m_Localized": "Mangia la pera"
+      },
+      {
+        "m_Id": 38352448848592901,
+        "m_Localized": "La salute è produttività.\nUno al giorno. Il cesto resta qui.\n\n- Wendberger"
+      },
+      {
+        "m_Id": 38352448848592902,
+        "m_Localized": "OK"
+      },
+      {
+        "m_Id": 38352448836009984,
+        "m_Localized": "Apri il regalo"
+      },
+      {
+        "m_Id": 40586018694561793,
+        "m_Localized": "Grazie per aver giocato a Playrooms! Ecco tutto quello che ha fatto quaggiù."
+      },
+      {
+        "m_Id": 40586018631647232,
+        "m_Localized": "Menu principale"
+      },
+      {
+        "m_Id": 40586018694561792,
+        "m_Localized": "Fine dell'ultimo turno"
+      },
+      {
+        "m_Id": 33786371413516297,
+        "m_Localized": "Hardcore: il Suo salvataggio è stato cancellato."
+      },
+      {
+        "m_Id": 33787802568761344,
+        "m_Localized": "Prema un tasto qualsiasi per tornare al menu principale"
+      },
+      {
+        "m_Id": 1412982260367360,
+        "m_Localized": "Prema un tasto qualsiasi per iniziare un nuovo giorno"
+      },
+      {
+        "m_Id": 1412982214230016,
+        "m_Localized": "Sei morto"
+      },
+      {
+        "m_Id": 39519636615790592,
+        "m_Localized": "Spegni"
+      },
+      {
+        "m_Id": 39519636582236160,
+        "m_Localized": "Accendi"
+      },
+      {
+        "m_Id": 38775201711398912,
+        "m_Localized": "Guarda"
+      },
+      {
+        "m_Id": 38846366882603008,
+        "m_Localized": "Piano di pulizia"
+      },
+      {
+        "m_Id": 38775201711398913,
+        "m_Localized": "Depenna"
+      },
+      {
+        "m_Id": 38775028306288640,
+        "m_Localized": "Spunta"
+      },
+      {
+        "m_Id": 38775028469866496,
+        "m_Localized": "Togli la spunta"
+      },
+      {
+        "m_Id": 35215573442502656,
+        "m_Localized": "Salvataggio…"
+      },
+      {
+        "m_Id": 34093427225526272,
+        "m_Localized": "Miao"
+      },
+      {
+        "m_Id": 34093427225526273,
+        "m_Localized": "Accarezza"
+      },
+      {
+        "m_Id": 34122467739172864,
+        "m_Localized": "Fusa"
+      },
+      {
+        "m_Id": 33540314926555136,
+        "m_Localized": "Caricamento stanze ..."
+      },
+      {
+        "m_Id": 33540314934943744,
+        "m_Localized": "Conteggio palline ..."
+      },
+      {
+        "m_Id": 33540314939138048,
+        "m_Localized": "Quasi pronto ..."
+      },
+      {
+        "m_Id": 33540314934943745,
+        "m_Localized": "Accensione luci ..."
+      },
+      {
+        "m_Id": 33540314939138049,
+        "m_Localized": "Tenga premuto Interagisci a una vasca per consegnare le palline che trasporta."
+      },
+      {
+        "m_Id": 33540314939138050,
+        "m_Localized": "Quando si spengono le luci, raggiunga un posto illuminato. In fretta."
+      },
+      {
+        "m_Id": 33540314939138051,
+        "m_Localized": "Una vasca delle palline piena sblocca sempre qualcosa."
+      },
+      {
+        "m_Id": 33540314939138052,
+        "m_Localized": "Di notte il computer sulla Sua scrivania serve per comprare e imparare nuove abilità."
+      },
+      {
+        "m_Id": 33540314939138053,
+        "m_Localized": "La notte arriva prima di quanto pensi."
+      },
+      {
+        "m_Id": 33540314939138054,
+        "m_Localized": "Di notte la stanza iniziale è il posto più sicuro che ci sia."
+      },
+      {
+        "m_Id": 33540314939138055,
+        "m_Localized": "Le palline rotolano. A volte proprio dove servono."
+      },
+      {
+        "m_Id": 33540314939138056,
+        "m_Localized": "Non tutto qui è una pallina. Tenga gli occhi aperti."
+      },
+      {
+        "m_Id": 40234246104875008,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 40234246008406016,
+        "m_Localized": "Apri"
+      },
+      {
+        "m_Id": 382725367242752,
+        "m_Localized": "Continua"
+      },
+      {
+        "m_Id": 383006750515200,
+        "m_Localized": "Crediti"
+      },
+      {
+        "m_Id": 383130700587008,
+        "m_Localized": "Elimina salvataggio"
+      },
+      {
+        "m_Id": 14549875030228992,
+        "m_Localized": "Esci dal menu"
+      },
+      {
+        "m_Id": 900000000000007,
+        "m_Localized": "Carica partita"
+      },
+      {
+        "m_Id": 900000000000001,
+        "m_Localized": "Nuova partita"
+      },
+      {
+        "m_Id": 32704516295630849,
+        "m_Localized": "Prema un tasto per iniziare"
+      },
+      {
+        "m_Id": 383215056429056,
+        "m_Localized": "Esci"
+      },
+      {
+        "m_Id": 383065336553472,
+        "m_Localized": "Impostazioni"
+      },
+      {
+        "m_Id": 30107239648002048,
+        "m_Localized": "Lista dei desideri Steam"
+      },
+      {
+        "m_Id": 33786371413516289,
+        "m_Localized": "Cozy"
+      },
+      {
+        "m_Id": 33786371413516294,
+        "m_Localized": "Raccogliere senza paura.\n\n- Niente horror\n- Lo spegnimento delle luci chiude la giornata, chi è ancora fuori viene riportato a casa sano e salvo"
+      },
+      {
+        "m_Id": 33786371413516291,
+        "m_Localized": "Hardcore"
+      },
+      {
+        "m_Id": 33786371413516296,
+        "m_Localized": "Nessuna seconda possibilità.\n\n- Come Normale\n- Se viene preso, il salvataggio viene cancellato\n- Si ricomincia da zero"
+      },
+      {
+        "m_Id": 33786371413516290,
+        "m_Localized": "Normale"
+      },
+      {
+        "m_Id": 33786371413516295,
+        "m_Localized": "Il gioco com'è pensato.\n\n- Se viene preso, la giornata ricomincia"
+      },
+      {
+        "m_Id": 33786371413516288,
+        "m_Localized": "Consigliato"
+      },
+      {
+        "m_Id": 33786371392544768,
+        "m_Localized": "Scelga una modalità di gioco"
+      },
+      {
+        "m_Id": 30578989376086017,
+        "m_Localized": "Qui stiamo solo pulendo."
+      },
+      {
+        "m_Id": 30578989376086018,
+        "m_Localized": "Facciamo cose da robot."
+      },
+      {
+        "m_Id": 30578989376086019,
+        "m_Localized": "Niente da vedere qui. Bip bup."
+      },
+      {
+        "m_Id": 30578989376086020,
+        "m_Localized": "Io non sono mai stato qui."
+      },
+      {
+        "m_Id": 30578989376086021,
+        "m_Localized": "Questa è una quantità normale di robot."
+      },
+      {
+        "m_Id": 30578989376086022,
+        "m_Localized": "Contavamo le palline. Insieme."
+      },
+      {
+        "m_Id": 30578989376086016,
+        "m_Localized": "Silenzio, robot! Arriva l'umano."
+      },
+      {
+        "m_Id": 30578989321560064,
+        "m_Localized": "Lo facciamo stanotte."
+      },
+      {
+        "m_Id": 32645820052021248,
+        "m_Localized": "Menu principale"
+      },
+      {
+        "m_Id": 41845743326732288,
+        "m_Localized": "Ripristina le palline della stanza"
+      },
+      {
+        "m_Id": 39941966357790720,
+        "m_Localized": "Liberati"
+      },
+      {
+        "m_Id": 24714285734830080,
+        "m_Localized": "Rispondi"
+      },
+      {
+        "m_Id": 40703131657699328,
+        "m_Localized": "Carta esaurita"
+      },
+      {
+        "m_Id": 40703131527675904,
+        "m_Localized": "Stampa"
+      },
+      {
+        "m_Id": 2854432308961280,
+        "m_Localized": "Sbloccato: %%Reward%%"
+      },
+      {
+        "m_Id": 13402644393107456,
+        "m_Localized": "Soldi insufficienti"
+      },
+      {
+        "m_Id": 13005279235907592,
+        "m_Localized": "Ricarica la torcia"
+      },
+      {
+        "m_Id": 13005279235907590,
+        "m_Localized": "La batteria è già piena"
+      },
+      {
+        "m_Id": 13005279235907591,
+        "m_Localized": "Soldi insufficienti"
+      },
+      {
+        "m_Id": 13005279235907589,
+        "m_Localized": "Niente da ricaricare"
+      },
+      {
+        "m_Id": 41845743364481024,
+        "m_Localized": "Rimettere al punto di partenza tutte le palline di questa stanza non ancora raccolte?"
+      },
+      {
+        "m_Id": 41845743364481025,
+        "m_Localized": "{0} palline rimesse a posto."
+      },
+      {
+        "m_Id": 41845743364481027,
+        "m_Localized": "Qui non c'è nessuna stanza da ripristinare."
+      },
+      {
+        "m_Id": 41845743364481026,
+        "m_Localized": "Tutte le palline sono già al loro posto."
+      },
+      {
+        "m_Id": 30516565230886919,
+        "m_Localized": "Batteria scarica. Torno alla stazione."
+      },
+      {
+        "m_Id": 30516565230886920,
+        "m_Localized": "In riserva. Torno a casa."
+      },
+      {
+        "m_Id": 30516565230886927,
+        "m_Localized": "Carica completa. Si parte."
+      },
+      {
+        "m_Id": 30516565230886928,
+        "m_Localized": "Batteria piena. Si torna a pulire."
+      },
+      {
+        "m_Id": 30516565230886924,
+        "m_Localized": "In carica."
+      },
+      {
+        "m_Id": 30516565230886925,
+        "m_Localized": "Ricarico le batterie."
+      },
+      {
+        "m_Id": 30516565230886926,
+        "m_Localized": "Solo un pisolino."
+      },
+      {
+        "m_Id": 30516565230886921,
+        "m_Localized": "Scarico palline."
+      },
+      {
+        "m_Id": 30516565230886922,
+        "m_Localized": "Consegna per la vasca."
+      },
+      {
+        "m_Id": 30516565230886923,
+        "m_Localized": "Svuoto il serbatoio."
+      },
+      {
+        "m_Id": 30435321948864512,
+        "m_Localized": "Ciao %%Other%%!"
+      },
+      {
+        "m_Id": 30435321957253121,
+        "m_Localized": "Viste palline, %%Other%%?"
+      },
+      {
+        "m_Id": 30435321957253123,
+        "m_Localized": "%%Other%%! Come va la batteria?"
+      },
+      {
+        "m_Id": 30435321957253125,
+        "m_Localized": "Bip bup, %%Other%%."
+      },
+      {
+        "m_Id": 30435321957253127,
+        "m_Localized": "Il tuo paraurti è lucido, %%Other%%."
+      },
+      {
+        "m_Id": 30435321957253129,
+        "m_Localized": "L'hai sentito, %%Other%%?"
+      },
+      {
+        "m_Id": 30435321957253131,
+        "m_Localized": "Gara fino alla vasca, %%Other%%!"
+      },
+      {
+        "m_Id": 30435321957253133,
+        "m_Localized": "%%Other%%, hai saltato un punto."
+      },
+      {
+        "m_Id": 30435321957253135,
+        "m_Localized": "Ciao %%Other%%. Ancora single?"
+      },
+      {
+        "m_Id": 30435321957253137,
+        "m_Localized": "Ti chiedi mai perché puliamo, %%Other%%?"
+      },
+      {
+        "m_Id": 30456861151133700,
+        "m_Localized": "Gandalf! Fammi passare fino alla stazione!"
+      },
+      {
+        "m_Id": 30456861151133706,
+        "m_Localized": "Gerrit, il mio codice l'hai scritto tu?"
+      },
+      {
+        "m_Id": 30456861151133704,
+        "m_Localized": "Julia, questo layout è definitivo?"
+      },
+      {
+        "m_Id": 30456861151133696,
+        "m_Localized": "Leif, blocchi di nuovo tutto il corridoio."
+      },
+      {
+        "m_Id": 30731732972142592,
+        "m_Localized": "Mawax, perché sei così lucido?"
+      },
+      {
+        "m_Id": 30456861151133698,
+        "m_Localized": "Saem, ma come si pronuncia il tuo nome?"
+      },
+      {
+        "m_Id": 30456861151133702,
+        "m_Localized": "Voidfox, dove finiscono le palline dentro di te?"
+      },
+      {
+        "m_Id": 30731732993114113,
+        "m_Localized": "Wire, sei attaccato alla presa?"
+      },
+      {
+        "m_Id": 30516565209915392,
+        "m_Localized": "Aiutami, per favore, sono bloccato."
+      },
+      {
+        "m_Id": 30516565230886912,
+        "m_Localized": "Ehi? C'è nessuno? Non riesco a passare."
+      },
+      {
+        "m_Id": 30516565230886929,
+        "m_Localized": "Così tante palline. Così poco tempo."
+      },
+      {
+        "m_Id": 30516565230886930,
+        "m_Localized": "Adoro l'odore della plastica al mattino."
+      },
+      {
+        "m_Id": 30516565230886931,
+        "m_Localized": "Le luci hanno appena sfarfallato?"
+      },
+      {
+        "m_Id": 30516565230886932,
+        "m_Localized": "Bip. Bup. Pulizia."
+      },
+      {
+        "m_Id": 30516565230886933,
+        "m_Localized": "Qualcun altro sente dei passi?"
+      },
+      {
+        "m_Id": 30516565230886934,
+        "m_Localized": "Un giorno pulirò tutto."
+      },
+      {
+        "m_Id": 30516565230886916,
+        "m_Localized": "Ehi! Mi rimetta giù, per favore."
+      },
+      {
+        "m_Id": 30516565230886917,
+        "m_Localized": "Da quassù vedo la mia stazione."
+      },
+      {
+        "m_Id": 34093275513356288,
+        "m_Localized": "Scenda da me, per favore."
+      },
+      {
+        "m_Id": 34093275534327808,
+        "m_Localized": "Carico utile inaspettatamente alto."
+      },
+      {
+        "m_Id": 34093275534327809,
+        "m_Localized": "Attenzione. Passeggero non autorizzato a bordo."
+      },
+      {
+        "m_Id": 34093275534327810,
+        "m_Localized": "Sono un aspirapolvere, non un taxi."
+      },
+      {
+        "m_Id": 34093275534327811,
+        "m_Localized": "Limite di peso superato. Fusa rilevate."
+      },
+      {
+        "m_Id": 29007758651228160,
+        "m_Localized": "Pausa"
+      },
+      {
+        "m_Id": 30516565230886913,
+        "m_Localized": "In pausa. Aspetto proprio qui."
+      },
+      {
+        "m_Id": 30435321957253120,
+        "m_Localized": "Ciao %%Self%%. Bella aspirazione oggi."
+      },
+      {
+        "m_Id": 30435321957253122,
+        "m_Localized": "Circa quarantamila."
+      },
+      {
+        "m_Id": 30435321957253124,
+        "m_Localized": "Dodici per cento e pieno di speranza."
+      },
+      {
+        "m_Id": 30435321957253126,
+        "m_Localized": "Non parlarmi mentre aspiro, per favore."
+      },
+      {
+        "m_Id": 30435321957253128,
+        "m_Localized": "Grazie. Ho preso un muro."
+      },
+      {
+        "m_Id": 30435321957253130,
+        "m_Localized": "Della cosa nel buio non parliamo."
+      },
+      {
+        "m_Id": 30435321957253132,
+        "m_Localized": "Massima 0,25 m/s. Fatti sotto."
+      },
+      {
+        "m_Id": 30435321957253134,
+        "m_Localized": "È stata una scelta di design."
+      },
+      {
+        "m_Id": 30435321957253136,
+        "m_Localized": "Il mio cuore appartiene alla mia stazione di ricarica."
+      },
+      {
+        "m_Id": 30435321957253138,
+        "m_Localized": "Errore 404: senso non trovato."
+      },
+      {
+        "m_Id": 30456861151133701,
+        "m_Localized": "Tu non puoi passare!"
+      },
+      {
+        "m_Id": 30456861151133707,
+        "m_Localized": "Non chiedere. Funziona."
+      },
+      {
+        "m_Id": 30456861151133705,
+        "m_Localized": "Niente è mai definitivo."
+      },
+      {
+        "m_Id": 30456861151133697,
+        "m_Localized": "Preferisco chiamarlo fare la guardia."
+      },
+      {
+        "m_Id": 30731732993114112,
+        "m_Localized": "Mi lucido da solo. Ogni notte."
+      },
+      {
+        "m_Id": 30456861151133699,
+        "m_Localized": "Con tanta aspirazione."
+      },
+      {
+        "m_Id": 30456861151133703,
+        "m_Localized": "Nel vuoto. Ovviamente."
+      },
+      {
+        "m_Id": 30731732993114114,
+        "m_Localized": "Sempre. Il cavo sono io."
+      },
+      {
+        "m_Id": 29007758651228161,
+        "m_Localized": "Riprendi"
+      },
+      {
+        "m_Id": 30516565230886918,
+        "m_Localized": "Serbatoio pieno. Torno a casa."
+      },
+      {
+        "m_Id": 30456861151133708,
+        "m_Localized": "Raccogli"
+      },
+      {
+        "m_Id": 30516565230886914,
+        "m_Localized": "Inizio a pulire."
+      },
+      {
+        "m_Id": 30516565230886915,
+        "m_Localized": "Si torna al lavoro."
+      },
+      {
+        "m_Id": 29017481375055872,
+        "m_Localized": "%%Battery%%%"
+      },
+      {
+        "m_Id": 29017481396027392,
+        "m_Localized": "In carica %%Battery%%%"
+      },
+      {
+        "m_Id": 29020939612258304,
+        "m_Localized": "Serbatoio %%Stored%%/%%Capacity%%"
+      },
+      {
+        "m_Id": 29007758634450944,
+        "m_Localized": "Compra un robot aspirapolvere per %%Price%%"
+      },
+      {
+        "m_Id": 13774267869233152,
+        "m_Localized": "Backroom"
+      },
+      {
+        "m_Id": 13774267915370498,
+        "m_Localized": "Sala relax"
+      },
+      {
+        "m_Id": 41353750205046784,
+        "m_Localized": "Ufficio verde"
+      },
+      {
+        "m_Id": 13774267915370497,
+        "m_Localized": "Sala giochi"
+      },
+      {
+        "m_Id": 13774267915370496,
+        "m_Localized": "Sala della piscina"
+      },
+      {
+        "m_Id": 30435034479656960,
+        "m_Localized": "Tutto pulito!"
+      },
+      {
+        "m_Id": 39546436339302400,
+        "m_Localized": "Hotel"
+      },
+      {
+        "m_Id": 31288143543672832,
+        "m_Localized": "Ufficio"
+      },
+      {
+        "m_Id": 39571300534124544,
+        "m_Localized": "Scuola"
+      },
+      {
+        "m_Id": 31288143514312704,
+        "m_Localized": "Sala d'attesa"
+      },
+      {
+        "m_Id": 38094887872299008,
+        "m_Localized": "Nuova area"
+      },
+      {
+        "m_Id": 18193667163684864,
+        "m_Localized": "Accessibilità"
+      },
+      {
+        "m_Id": 19697213724303360,
+        "m_Localized": "Antialiasing"
+      },
+      {
+        "m_Id": 19697213770440704,
+        "m_Localized": "Qualità antialiasing"
+      },
+      {
+        "m_Id": 21390104401518592,
+        "m_Localized": "Applica"
+      },
+      {
+        "m_Id": 38147825457569792,
+        "m_Localized": "Volume ambiente"
+      },
+      {
+        "m_Id": 18160431708504064,
+        "m_Localized": "Volume generale"
+      },
+      {
+        "m_Id": 18160620489932800,
+        "m_Localized": "Volume musica"
+      },
+      {
+        "m_Id": 18160759417864192,
+        "m_Localized": "Volume effetti"
+      },
+      {
+        "m_Id": 18160204494667776,
+        "m_Localized": "Sensibilità telecamera"
+      },
+      {
+        "m_Id": 44224450764472320,
+        "m_Localized": "Comandi"
+      },
+      {
+        "m_Id": 3647358218010624,
+        "m_Localized": "Azioni"
+      },
+      {
+        "m_Id": 32632002232066048,
+        "m_Localized": "Campo visivo"
+      },
+      {
+        "m_Id": 10905088274604032,
+        "m_Localized": "Limite fotogrammi"
+      },
+      {
+        "m_Id": 18162023694336000,
+        "m_Localized": "Schermo intero"
+      },
+      {
+        "m_Id": 18191299403579392,
+        "m_Localized": "Impostazioni di gioco"
+      },
+      {
+        "m_Id": 18193462263545856,
+        "m_Localized": "Gioco"
+      },
+      {
+        "m_Id": 18191858852429824,
+        "m_Localized": "Impostazioni grafiche"
+      },
+      {
+        "m_Id": 48912007244521472,
+        "m_Localized": "Preset grafici"
+      },
+      {
+        "m_Id": 18193563493072896,
+        "m_Localized": "Grafica"
+      },
+      {
+        "m_Id": 18191717982535680,
+        "m_Localized": "Preset grafico"
+      },
+      {
+        "m_Id": 18159866198884352,
+        "m_Localized": "Oscillazione della testa"
+      },
+      {
+        "m_Id": 39976088748883968,
+        "m_Localized": "Costumi festivi di Balli"
+      },
+      {
+        "m_Id": 18532688463536128,
+        "m_Localized": "Nascondi HUD (modalità foto)"
+      },
+      {
+        "m_Id": 13005126210920448,
+        "m_Localized": "Tieni premuto per trasportare"
+      },
+      {
+        "m_Id": 34051138250801152,
+        "m_Localized": "Larghezza HUD"
+      },
+      {
+        "m_Id": 37602433125515264,
+        "m_Localized": "Inverti asse Y"
+      },
+      {
+        "m_Id": 18161122682339328,
+        "m_Localized": "Lingua"
+      },
+      {
+        "m_Id": 18192436022214656,
+        "m_Localized": "Impostazioni lingua"
+      },
+      {
+        "m_Id": 36250576993525760,
+        "m_Localized": "Risoluzione lightmap"
+      },
+      {
+        "m_Id": 32632002294980608,
+        "m_Localized": "Sfocatura di movimento"
+      },
+      {
+        "m_Id": 32632002294980609,
+        "m_Localized": "Movimento telecamera ridotto"
+      },
+      {
+        "m_Id": 17760383088435200,
+        "m_Localized": "Lampeggi ridotti"
+      },
+      {
+        "m_Id": 25651886180990976,
+        "m_Localized": "Ripristina"
+      },
+      {
+        "m_Id": 18162254100037632,
+        "m_Localized": "Risoluzione"
+      },
+      {
+        "m_Id": 30516579453771776,
+        "m_Localized": "Fumetti dei robot"
+      },
+      {
+        "m_Id": 19698306109808640,
+        "m_Localized": "Qualità dell'immagine"
+      },
+      {
+        "m_Id": 18193362128732160,
+        "m_Localized": "Audio"
+      },
+      {
+        "m_Id": 18190974605066240,
+        "m_Localized": "Volume"
+      },
+      {
+        "m_Id": 19803971432095744,
+        "m_Localized": "Upscaling"
+      },
+      {
+        "m_Id": 19803971444678656,
+        "m_Localized": "Qualità upscaling"
+      },
+      {
+        "m_Id": 39038573203136512,
+        "m_Localized": "Impostazioni visive"
+      },
+      {
+        "m_Id": 48922867154485248,
+        "m_Localized": "Vsync"
+      },
+      {
+        "m_Id": 15136925425074176,
+        "m_Localized": "Modalità Windows 95"
+      },
+      {
+        "m_Id": 900000000000006,
+        "m_Localized": "Eliminare davvero questo salvataggio?"
+      },
+      {
+        "m_Id": 900000000000004,
+        "m_Localized": "Vuoto"
+      },
+      {
+        "m_Id": 33786371413516292,
+        "m_Localized": "Cozy"
+      },
+      {
+        "m_Id": 33786371413516293,
+        "m_Localized": "Hardcore"
+      },
+      {
+        "m_Id": 900000000000003,
+        "m_Localized": "Slot {0}"
+      },
+      {
+        "m_Id": 900000000000009,
+        "m_Localized": "Questo slot contiene già un salvataggio. Sovrascriverlo?"
+      },
+      {
+        "m_Id": 900000000000005,
+        "m_Localized": "Tempo di gioco {0}"
+      },
+      {
+        "m_Id": 900000000000010,
+        "m_Localized": "Progresso {0}%"
+      },
+      {
+        "m_Id": 900000000000002,
+        "m_Localized": "Scegli lo slot di salvataggio"
+      },
+      {
+        "m_Id": 900000000000008,
+        "m_Localized": "Carica salvataggio"
+      },
+      {
+        "m_Id": 28229276283371521,
+        "m_Localized": "Tutti i passeri trovati!"
+      },
+      {
+        "m_Id": 28229276233039872,
+        "m_Localized": "Cattura"
+      },
+      {
+        "m_Id": 28229276283371520,
+        "m_Localized": "Passero trovato!"
+      },
+      {
+        "m_Id": 5437701722447872,
+        "m_Localized": "Lancia"
+      },
+      {
+        "m_Id": 13005279235907585,
+        "m_Localized": "Tieni premuto per lanciare"
+      },
+      {
+        "m_Id": 18542438397509632,
+        "m_Localized": "Off"
+      },
+      {
+        "m_Id": 18542349570539520,
+        "m_Localized": "On"
+      },
+      {
+        "m_Id": 39553522552995840,
+        "m_Localized": "Cambia canale"
+      },
+      {
+        "m_Id": 39553522552995846,
+        "m_Localized": "CHIAMA ORA!"
+      },
+      {
+        "m_Id": 39553522552995847,
+        "m_Localized": "800 225 537"
+      },
+      {
+        "m_Id": 39553522552995844,
+        "m_Localized": "invece di %%Price%%"
+      },
+      {
+        "m_Id": 39553522552995842,
+        "m_Localized": "SHOP TV"
+      },
+      {
+        "m_Id": 39553522552995845,
+        "m_Localized": "ORA SOLO"
+      },
+      {
+        "m_Id": 39553522552995848,
+        "m_Localized": "ESAURITO!\nGrazie per il Suo ordine."
+      },
+      {
+        "m_Id": 39553522552995849,
+        "m_Localized": "+++ Fino a esaurimento scorte +++ Consegna diretta nel negozio del Suo laptop +++ Palline non incluse +++ Soddisfazione garantita* +++ *non garantita +++ La direzione ringrazia per la fedeltà +++"
+      },
+      {
+        "m_Id": 39553522552995843,
+        "m_Localized": "SOLO\nOGGI!"
+      },
+      {
+        "m_Id": 39553522552995851,
+        "m_Localized": "FINE TRASMISSIONI"
+      },
+      {
+        "m_Id": 39553522552995850,
+        "m_Localized": "PLAYROOMS TV"
+      },
+      {
+        "m_Id": 39553522552995862,
+        "m_Localized": "^gInserisci pagina: ^w_ _ _"
+      },
+      {
+        "m_Id": 39553522552995870,
+        "m_Localized": "Conto"
+      },
+      {
+        "m_Id": 39553522552995865,
+        "m_Localized": "Raccolte oggi"
+      },
+      {
+        "m_Id": 39553522552995864,
+        "m_Localized": "Giorno"
+      },
+      {
+        "m_Id": 39553522552995866,
+        "m_Localized": "Consegnate oggi"
+      },
+      {
+        "m_Id": 39553522552995867,
+        "m_Localized": "Guadagno oggi"
+      },
+      {
+        "m_Id": 39553522552995871,
+        "m_Localized": "^cDati senza garanzia."
+      },
+      {
+        "m_Id": 39553522552995869,
+        "m_Localized": "Vasche piene"
+      },
+      {
+        "m_Id": 39553522552995868,
+        "m_Localized": "Palline consegnate"
+      },
+      {
+        "m_Id": 39553522552995875,
+        "m_Localized": "Palline"
+      },
+      {
+        "m_Id": 39553522552995876,
+        "m_Localized": "^gPromossa: ^w80000  ^rRetrocessa: ^wnessuna"
+      },
+      {
+        "m_Id": 39553522552995874,
+        "m_Localized": "Vasca"
+      },
+      {
+        "m_Id": 39553522552995873,
+        "m_Localized": "Pos"
+      },
+      {
+        "m_Id": 39553522552995879,
+        "m_Localized": "^yOGGI: ^w100% luce al neon.\n^yUmidità: ^wsgradevole.\n\n^cPREVISIONI: ^wblackout in serata.\n^wRestate nella luce."
+      },
+      {
+        "m_Id": 39553522552995880,
+        "m_Localized": "^yOGGI: ^wpalline leggere da ovest.\n^yVisibilità: ^wfino al prossimo muro.\n\n^cAVVISO: ^wnelle ore serali\n^wla visibilità scende a zero."
+      },
+      {
+        "m_Id": 39553522552995881,
+        "m_Localized": "^yOGGI: ^wsfarfallio, ronzii a tratti.\n^yVento: ^wsolo dalle bocchette.\n\n^cSTANOTTE: ^rbuio. Molto buio."
+      },
+      {
+        "m_Id": 39553522552995882,
+        "m_Localized": "^yOGGI: ^wrovesci di palline in piscina,\n^waltrove asciutto.\n\n^cCONSIGLIO: ^wchiudete la porta\n^wprima che faccia buio."
+      },
+      {
+        "m_Id": 39553522552995883,
+        "m_Localized": "^yOGGI: ^wstabile. Uniforme.\n^wProprio come ieri.\n^wProprio come domani.\n\n^cIl meteo vi è offerto da:\n^wla direzione."
+      },
+      {
+        "m_Id": 39553522552995878,
+        "m_Localized": "Backrooms, livello 0"
+      },
+      {
+        "m_Id": 39553522552995886,
+        "m_Localized": "ROSSO,VERDE,BLU,GIALLO,ARANCIONE,VIOLA,ROSA,BIANCO"
+      },
+      {
+        "m_Id": 39553522552995885,
+        "m_Localized": " Colore         Prezzo +/-"
+      },
+      {
+        "m_Id": 39553522552995887,
+        "m_Localized": "INDICE PIT"
+      },
+      {
+        "m_Id": 39553522552995888,
+        "m_Localized": "^cPrezzi di ieri. Non è un consiglio."
+      },
+      {
+        "m_Id": 39553522552995889,
+        "m_Localized": "RESTA NELLA LUCE"
+      },
+      {
+        "m_Id": 39553522552995891,
+        "m_Localized": "^mRobot aspirapolvere solo (8)^w cerca\n^wstazione di ricarica per notti lunghe.\n^c   Chiama lo 899 762 646\n\n^mPala, buone condizioni,^w cerca\n^wscopa per qualcosa di più. No palline.\n^c   Chiama lo 899 225 537\n\n^mMi hai visto nella vasca delle palline.\n^wAnch'io ti ho visto.\n^wTi vedo sempre.\n^c   Chiama lo 899 666 666\n\n^y           2,99 €/min"
+      },
+      {
+        "m_Id": 39553522552995853,
+        "m_Localized": "Do,Lu,Ma,Me,Gi,Ve,Sa"
+      },
+      {
+        "m_Id": 39553522552995854,
+        "m_Localized": ","
+      },
+      {
+        "m_Id": 39553522552995855,
+        "m_Localized": "Bilancio,Vasche,Meteo,Prezzi"
+      },
+      {
+        "m_Id": 39553522552995857,
+        "m_Localized": "Il Suo bilancio"
+      },
+      {
+        "m_Id": 39553522552995858,
+        "m_Localized": "Classifica vasche"
+      },
+      {
+        "m_Id": 39553522552995859,
+        "m_Localized": "Meteo"
+      },
+      {
+        "m_Id": 39553522552995860,
+        "m_Localized": "Prezzi palline"
+      },
+      {
+        "m_Id": 39553522552995861,
+        "m_Localized": "Contatti"
+      },
+      {
+        "m_Id": 39553522552995852,
+        "m_Localized": "PLAYROOMS TEXT"
+      },
+      {
+        "m_Id": 39553522552995856,
+        "m_Localized": "PLAYROOMS TEXT"
+      },
+      {
+        "m_Id": 39553522552995863,
+        "m_Localized": "IL SUO BILANCIO"
+      },
+      {
+        "m_Id": 39553522552995872,
+        "m_Localized": "CLASSIFICA VASCHE"
+      },
+      {
+        "m_Id": 39553522552995877,
+        "m_Localized": "METEO"
+      },
+      {
+        "m_Id": 39553522552995884,
+        "m_Localized": "PREZZI PALLINE"
+      },
+      {
+        "m_Id": 39553522552995890,
+        "m_Localized": "CONTATTI"
+      },
+      {
+        "m_Id": 39553522552995841,
+        "m_Localized": "Spegni"
+      },
+      {
+        "m_Id": 39553522532024320,
+        "m_Localized": "Accendi"
+      },
+      {
+        "m_Id": 38860300322742272,
+        "m_Localized": "Serve un'altra vasca piena"
+      },
+      {
+        "m_Id": 38860300423405568,
+        "m_Localized": "Prossima vasca"
+      },
+      {
+        "m_Id": 30807613178576896,
+        "m_Localized": "Solo nella versione completa"
+      },
+      {
+        "m_Id": 30799379747241984,
+        "m_Localized": "Si sblocca in %%Room%%"
+      },
+      {
+        "m_Id": 41444300270739456,
+        "m_Localized": "Servono ancora %%Count%% chiavi"
+      },
+      {
+        "m_Id": 41444300220407808,
+        "m_Localized": "Ancora %%Count%% chiavi"
+      },
+      {
+        "m_Id": 30799379810156544,
+        "m_Localized": "Serve la prossima chiave"
+      },
+      {
+        "m_Id": 35575084900556800,
+        "m_Localized": "Prossima chiave"
+      },
+      {
+        "m_Id": 39941966382956546,
+        "m_Localized": "Liberati di nuovo disponibile tra {0} s."
+      },
+      {
+        "m_Id": 39941966382956544,
+        "m_Localized": "Liberato."
+      },
+      {
+        "m_Id": 39941966382956547,
+        "m_Localized": "Non mentre qualcosa Le dà la caccia."
+      },
+      {
+        "m_Id": 39941966382956545,
+        "m_Localized": "Nessun posto libero nelle vicinanze."
+      },
+      {
+        "m_Id": 39941966382956548,
+        "m_Localized": "Al momento non è possibile."
+      },
+      {
+        "m_Id": 37722674140741636,
+        "m_Localized": "PIENO"
+      },
+      {
+        "m_Id": 37722674140741637,
+        "m_Localized": "PRONTO"
+      },
+      {
+        "m_Id": 37722674140741634,
+        "m_Localized": "ASPIRA"
+      },
+      {
+        "m_Id": 37722674140741635,
+        "m_Localized": "INVIO"
+      },
+      {
+        "m_Id": 37722674140741632,
+        "m_Localized": "Aspirapalline: aspira"
+      },
+      {
+        "m_Id": 37722674140741633,
+        "m_Localized": "Aspirapalline: invia"
+      },
+      {
+        "m_Id": 13051645546962945,
+        "m_Localized": "Aspirapalline spento"
+      },
+      {
+        "m_Id": 13051645546962944,
+        "m_Localized": "Aspirapalline acceso"
+      },
+      {
+        "m_Id": 13051645534380032,
+        "m_Localized": "Riempi"
+      },
+      {
+        "m_Id": 28750197976342529,
+        "m_Localized": "Colore"
+      },
+      {
+        "m_Id": 28750197955371008,
+        "m_Localized": "Disegna"
+      },
+      {
+        "m_Id": 28750197976342528,
+        "m_Localized": "Cancella"
+      },
+      {
+        "m_Id": 28750197976342530,
+        "m_Localized": "Indietro"
+      },
+      {
+        "m_Id": 15136925521543178,
+        "m_Localized": "Saldo: %%Amount%%"
+      },
+      {
+        "m_Id": 24598487395205131,
+        "m_Localized": "Anonimo"
+      },
+      {
+        "m_Id": 24598487395205128,
+        "m_Localized": "Spazzini più veloci"
+      },
+      {
+        "m_Id": 24598487395205130,
+        "m_Localized": "Azzera punteggi"
+      },
+      {
+        "m_Id": 24598487395205129,
+        "m_Localized": "%%Seconds%% secondi"
+      },
+      {
+        "m_Id": 24598487395205127,
+        "m_Localized": "Tempi migliori"
+      },
+      {
+        "m_Id": 23608043874025473,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 23598300744908800,
+        "m_Localized": "Sgomberi la vasca."
+      },
+      {
+        "m_Id": 24598487395205121,
+        "m_Localized": "Principiante"
+      },
+      {
+        "m_Id": 24598487395205123,
+        "m_Localized": "Esperto"
+      },
+      {
+        "m_Id": 24598487395205122,
+        "m_Localized": "Intermedio"
+      },
+      {
+        "m_Id": 23598300744908802,
+        "m_Localized": "Quella non era una pallina."
+      },
+      {
+        "m_Id": 23608043874025472,
+        "m_Localized": "Segna"
+      },
+      {
+        "m_Id": 24598487395205124,
+        "m_Localized": "Tempi migliori..."
+      },
+      {
+        "m_Id": 24598487395205125,
+        "m_Localized": "Esci"
+      },
+      {
+        "m_Id": 24598487370039296,
+        "m_Localized": "Gioco"
+      },
+      {
+        "m_Id": 24598487395205120,
+        "m_Localized": "Nuovo"
+      },
+      {
+        "m_Id": 24598487395205126,
+        "m_Localized": "OK"
+      },
+      {
+        "m_Id": 24598487395205133,
+        "m_Localized": "Ha il tempo migliore del livello %%Level%%. Inserisca il Suo nome:"
+      },
+      {
+        "m_Id": 24598487395205132,
+        "m_Localized": "Congratulazioni"
+      },
+      {
+        "m_Id": 23608043840471040,
+        "m_Localized": "Sgombera"
+      },
+      {
+        "m_Id": 23598300681994240,
+        "m_Localized": "ballsweeper.exe"
+      },
+      {
+        "m_Id": 23598300744908801,
+        "m_Localized": "Vasca sgomberata."
+      },
+      {
+        "m_Id": 17746982220046336,
+        "m_Localized": "AVVIO IN CORSO"
+      },
+      {
+        "m_Id": 17380878427594752,
+        "m_Localized": "Acquistato"
+      },
+      {
+        "m_Id": 15136925521543168,
+        "m_Localized": "Playrooms95"
+      },
+      {
+        "m_Id": 15136925521543174,
+        "m_Localized": "Acquista"
+      },
+      {
+        "m_Id": 15136925521543185,
+        "m_Localized": "FUORI SERVIZIO"
+      },
+      {
+        "m_Id": 34890555802132480,
+        "m_Localized": "1 NUOVO MESSAGGIO"
+      },
+      {
+        "m_Id": 15136925521543173,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 29051884360310792,
+        "m_Localized": "PRESO!"
+      },
+      {
+        "m_Id": 29051884360310791,
+        "m_Localized": "PAUSA"
+      },
+      {
+        "m_Id": 29051884360310790,
+        "m_Localized": "PITDASH"
+      },
+      {
+        "m_Id": 29051884360310798,
+        "m_Localized": "Corridori di vasca più veloci"
+      },
+      {
+        "m_Id": 29051884360310799,
+        "m_Localized": "%%Points%% punti"
+      },
+      {
+        "m_Id": 29051884360310800,
+        "m_Localized": "Azzera punteggi"
+      },
+      {
+        "m_Id": 29051884360310797,
+        "m_Localized": "Classifica"
+      },
+      {
+        "m_Id": 29051884360310785,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 29051884360310784,
+        "m_Localized": "Salta"
+      },
+      {
+        "m_Id": 29051884360310795,
+        "m_Localized": "Classifica..."
+      },
+      {
+        "m_Id": 29051884360310796,
+        "m_Localized": "Esci"
+      },
+      {
+        "m_Id": 29051884360310793,
+        "m_Localized": "Gioco"
+      },
+      {
+        "m_Id": 29051884360310794,
+        "m_Localized": "Nuovo"
+      },
+      {
+        "m_Id": 29051884360310789,
+        "m_Localized": "Preso. %%Key%% per una nuova corsa."
+      },
+      {
+        "m_Id": 29051884360310788,
+        "m_Localized": "In pausa. %%Key%% per continuare."
+      },
+      {
+        "m_Id": 29051884360310786,
+        "m_Localized": "%%Key%% per partire di corsa."
+      },
+      {
+        "m_Id": 29051884360310802,
+        "m_Localized": "Ha raggiunto il posto %%Place%% in classifica. Inserisca il Suo nome:"
+      },
+      {
+        "m_Id": 29051884360310801,
+        "m_Localized": "Congratulazioni"
+      },
+      {
+        "m_Id": 29051884360310787,
+        "m_Localized": "Sopra o addosso."
+      },
+      {
+        "m_Id": 29051884343533568,
+        "m_Localized": "pitdash.exe"
+      },
+      {
+        "m_Id": 34756004408860672,
+        "m_Localized": "OK"
+      },
+      {
+        "m_Id": 34823023745441792,
+        "m_Localized": "balli.exe"
+      },
+      {
+        "m_Id": 38129452561137684,
+        "m_Localized": "TEMPO SCADUTO"
+      },
+      {
+        "m_Id": 38129452561137667,
+        "m_Localized": "PAUSA"
+      },
+      {
+        "m_Id": 38129452561137683,
+        "m_Localized": "CACCIA FLASH"
+      },
+      {
+        "m_Id": 38129452561137673,
+        "m_Localized": "Torce più affilate"
+      },
+      {
+        "m_Id": 38129452561137674,
+        "m_Localized": "%%Points%% punti"
+      },
+      {
+        "m_Id": 38129452561137675,
+        "m_Localized": "Azzera punteggi"
+      },
+      {
+        "m_Id": 38129452561137672,
+        "m_Localized": "Classifica"
+      },
+      {
+        "m_Id": 38129452561137665,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 38129452561137678,
+        "m_Localized": "Flash"
+      },
+      {
+        "m_Id": 38129452561137670,
+        "m_Localized": "Classifica..."
+      },
+      {
+        "m_Id": 38129452561137671,
+        "m_Localized": "Esci"
+      },
+      {
+        "m_Id": 38129452561137668,
+        "m_Localized": "Gioco"
+      },
+      {
+        "m_Id": 38129452561137669,
+        "m_Localized": "Nuovo"
+      },
+      {
+        "m_Id": 38129452561137682,
+        "m_Localized": "Tempo scaduto. %%Key%% per un nuovo round."
+      },
+      {
+        "m_Id": 38129452561137666,
+        "m_Localized": "In pausa. %%Key%% per continuare."
+      },
+      {
+        "m_Id": 38129452561137680,
+        "m_Localized": "%%Key%% per iniziare. 90 secondi, 8 cariche."
+      },
+      {
+        "m_Id": 38129452561137677,
+        "m_Localized": "Ha raggiunto il posto %%Place%% in classifica. Inserisca il Suo nome:"
+      },
+      {
+        "m_Id": 38129452561137676,
+        "m_Localized": "Congratulazioni"
+      },
+      {
+        "m_Id": 38129452561137679,
+        "m_Localized": "Ricarica"
+      },
+      {
+        "m_Id": 38129452561137681,
+        "m_Localized": "Illumini le facce. Risparmi i passeri."
+      },
+      {
+        "m_Id": 38129452561137664,
+        "m_Localized": "cacciaflash.exe"
+      },
+      {
+        "m_Id": 38126321592893453,
+        "m_Localized": "Frecce"
+      },
+      {
+        "m_Id": 23618717593370644,
+        "m_Localized": "C"
+      },
+      {
+        "m_Id": 23618717593370633,
+        "m_Localized": "Croce giù"
+      },
+      {
+        "m_Id": 23618717593370634,
+        "m_Localized": "Croce sinistra"
+      },
+      {
+        "m_Id": 38126321592893454,
+        "m_Localized": "Croce direz."
+      },
+      {
+        "m_Id": 23618717593370635,
+        "m_Localized": "Croce destra"
+      },
+      {
+        "m_Id": 23618717593370632,
+        "m_Localized": "Croce su"
+      },
+      {
+        "m_Id": 23618717593370643,
+        "m_Localized": "E"
+      },
+      {
+        "m_Id": 23618717593370639,
+        "m_Localized": "Invio"
+      },
+      {
+        "m_Id": 23618717593370638,
+        "m_Localized": "Esc"
+      },
+      {
+        "m_Id": 23618717593370630,
+        "m_Localized": "L3"
+      },
+      {
+        "m_Id": 23618717593370631,
+        "m_Localized": "R3"
+      },
+      {
+        "m_Id": 23618717593370624,
+        "m_Localized": "L1"
+      },
+      {
+        "m_Id": 23618717589176323,
+        "m_Localized": "LB"
+      },
+      {
+        "m_Id": 23618717589176325,
+        "m_Localized": "LT"
+      },
+      {
+        "m_Id": 23618717593370636,
+        "m_Localized": "Clic sx"
+      },
+      {
+        "m_Id": 23618717593370637,
+        "m_Localized": "Clic dx"
+      },
+      {
+        "m_Id": 23618717593370626,
+        "m_Localized": "L2"
+      },
+      {
+        "m_Id": 23618717593370629,
+        "m_Localized": "Options"
+      },
+      {
+        "m_Id": 23618717589176330,
+        "m_Localized": "Cerchio"
+      },
+      {
+        "m_Id": 23618717589176331,
+        "m_Localized": "Quadrato"
+      },
+      {
+        "m_Id": 23618717593370628,
+        "m_Localized": "Share"
+      },
+      {
+        "m_Id": 23618717589176332,
+        "m_Localized": "Triangolo"
+      },
+      {
+        "m_Id": 23618717589176329,
+        "m_Localized": "Croce"
+      },
+      {
+        "m_Id": 23618717593370642,
+        "m_Localized": "Q"
+      },
+      {
+        "m_Id": 23618717593370625,
+        "m_Localized": "R1"
+      },
+      {
+        "m_Id": 23618717593370627,
+        "m_Localized": "R2"
+      },
+      {
+        "m_Id": 23618717589176324,
+        "m_Localized": "RB"
+      },
+      {
+        "m_Id": 23618717589176326,
+        "m_Localized": "RT"
+      },
+      {
+        "m_Id": 23618717593370640,
+        "m_Localized": "Spazio"
+      },
+      {
+        "m_Id": 23618717593370641,
+        "m_Localized": "Tab"
+      },
+      {
+        "m_Id": 23618717551427584,
+        "m_Localized": "A"
+      },
+      {
+        "m_Id": 23618717589176320,
+        "m_Localized": "B"
+      },
+      {
+        "m_Id": 23618717589176328,
+        "m_Localized": "Menu"
+      },
+      {
+        "m_Id": 23618717589176327,
+        "m_Localized": "View"
+      },
+      {
+        "m_Id": 23618717589176321,
+        "m_Localized": "X"
+      },
+      {
+        "m_Id": 23618717589176322,
+        "m_Localized": "Y"
+      },
+      {
+        "m_Id": 16609078479396864,
+        "m_Localized": "luce.exe"
+      },
+      {
+        "m_Id": 17407261090488321,
+        "m_Localized": "Accendere le luci, iniziare il giorno successivo e spegnere il computer?"
+      },
+      {
+        "m_Id": 17407261090488323,
+        "m_Localized": "Annulla"
+      },
+      {
+        "m_Id": 17407261090488322,
+        "m_Localized": "Arresta"
+      },
+      {
+        "m_Id": 17407261090488320,
+        "m_Localized": "luce.exe"
+      },
+      {
+        "m_Id": 15136925521543177,
+        "m_Localized": "???"
+      },
+      {
+        "m_Id": 17354844059705349,
+        "m_Localized": "Da"
+      },
+      {
+        "m_Id": 17354844059705350,
+        "m_Localized": "Oggetto"
+      },
+      {
+        "m_Id": 17354844059705354,
+        "m_Localized": "Giorno %%Day%%"
+      },
+      {
+        "m_Id": 17354844059705355,
+        "m_Localized": "Elimina"
+      },
+      {
+        "m_Id": 17354844059705348,
+        "m_Localized": "Posta eliminata"
+      },
+      {
+        "m_Id": 17354844059705356,
+        "m_Localized": "Questa cartella è vuota."
+      },
+      {
+        "m_Id": 17354844059705351,
+        "m_Localized": "Da:"
+      },
+      {
+        "m_Id": 17354844059705346,
+        "m_Localized": "Posta in arrivo"
+      },
+      {
+        "m_Id": 17354844063899648,
+        "m_Localized": "Ha un nuovo messaggio da %%Sender%%:\n\n%%Subject%%"
+      },
+      {
+        "m_Id": 17354844063899649,
+        "m_Localized": "Apri messaggio"
+      },
+      {
+        "m_Id": 17354844059705359,
+        "m_Localized": "Nuovo messaggio"
+      },
+      {
+        "m_Id": 17354844059705347,
+        "m_Localized": "Posta in uscita"
+      },
+      {
+        "m_Id": 17354844059705357,
+        "m_Localized": "La posta in uscita è attualmente fuori servizio."
+      },
+      {
+        "m_Id": 17354844059705344,
+        "m_Localized": "Messaggio"
+      },
+      {
+        "m_Id": 17354844059705345,
+        "m_Localized": "Cartelle personali"
+      },
+      {
+        "m_Id": 17354844059705352,
+        "m_Localized": "Inviato:"
+      },
+      {
+        "m_Id": 17354844059705358,
+        "m_Localized": "%%Count%% elemento/i, %%Unread%% da leggere"
+      },
+      {
+        "m_Id": 17354844059705353,
+        "m_Localized": "Oggetto:"
+      },
+      {
+        "m_Id": 17354844042928128,
+        "m_Localized": "posta.exe"
+      },
+      {
+        "m_Id": 28164539380899840,
+        "m_Localized": "Aggiungi alla lista dei desideri"
+      },
+      {
+        "m_Id": 15136925521543176,
+        "m_Localized": "Al massimo"
+      },
+      {
+        "m_Id": 32704516295630848,
+        "m_Localized": "Indietro"
+      },
+      {
+        "m_Id": 32704516186578944,
+        "m_Localized": "Elimina"
+      },
+      {
+        "m_Id": 30113821639245824,
+        "m_Localized": "Accesso effettuato: dipendente n. 0417"
+      },
+      {
+        "m_Id": 30083694201077760,
+        "m_Localized": "Playrooms Facility Services"
+      },
+      {
+        "m_Id": 15136925521543179,
+        "m_Localized": "%%Count%% elemento/i"
+      },
+      {
+        "m_Id": 33535901545668632,
+        "m_Localized": "Descrizione (facoltativa):"
+      },
+      {
+        "m_Id": 33535901545668644,
+        "m_Localized": "La frequenza delle Sue segnalazioni è stata annotata nel Suo fascicolo personale."
+      },
+      {
+        "m_Id": 33535901545668645,
+        "m_Localized": "Promemoria: presentare una segnalazione conta come orario di lavoro per al massimo un minuto."
+      },
+      {
+        "m_Id": 33535901545668656,
+        "m_Localized": "Secondo la planimetria, proprio dietro di Lei c'è un muro. Lì non può esserci niente."
+      },
+      {
+        "m_Id": 33535901545668647,
+        "m_Localized": "La figura è una sagoma di cartone dell'ultimo anniversario aziendale. Per motivi di budget non è ancora stata smaltita."
+      },
+      {
+        "m_Id": 33535901545668650,
+        "m_Localized": "La Sua valutazione del pericolo era fuori dall'intervallo consentito ed è stata corretta a 2."
+      },
+      {
+        "m_Id": 33535901545668655,
+        "m_Localized": "La Sua segnalazione è stata confrontata con quelle precedenti. Esito: immaginazione."
+      },
+      {
+        "m_Id": 33535901545668651,
+        "m_Localized": "Si trattava di un collega del turno di notte. La prossima volta lo saluti cordialmente."
+      },
+      {
+        "m_Id": 33535901545668649,
+        "m_Localized": "Lo spegnimento delle luci era una misura programmata di risparmio energetico. Il programma è riservato."
+      },
+      {
+        "m_Id": 33535901545668646,
+        "m_Localized": "L'avvistamento è stato identificato come un riflesso delle luci del soffitto sulla superficie della vasca delle palline. Le palline sono lucide. È normale."
+      },
+      {
+        "m_Id": 33535901545668652,
+        "m_Localized": "Il pupazzo è un manichino per test ergonomici della Sicurezza sul lavoro. Non si muove. Se dovesse muoversi comunque, resta innocuo."
+      },
+      {
+        "m_Id": 33535901545668657,
+        "m_Localized": "Di notte le palline si dilatano leggermente e poi si assestano. Un certo movimento nella vasca è quindi da aspettarsi."
+      },
+      {
+        "m_Id": 33535901545668653,
+        "m_Localized": "Rilevati segni di stanchezza eccessiva. Beva più caffè."
+      },
+      {
+        "m_Id": 33535901545668648,
+        "m_Localized": "I rumori provengono dalla ventilazione, che di notte funziona in modalità risparmio energetico. La modalità risparmio energetico può sembrare un respiro."
+      },
+      {
+        "m_Id": 33535901545668654,
+        "m_Localized": "Dall'introduzione di report.exe sono stati registrati 0 incidenti pericolosi."
+      },
+      {
+        "m_Id": 33535901545668608,
+        "m_Localized": "Nuova segnalazione di avvistamento - pratica %%Case%%"
+      },
+      {
+        "m_Id": 33535901545668640,
+        "m_Localized": "Tutte le informazioni sono trattate in modo riservato."
+      },
+      {
+        "m_Id": 33535901545668641,
+        "m_Localized": "Trasmissione..."
+      },
+      {
+        "m_Id": 33535901545668642,
+        "m_Localized": "Pratica chiusa."
+      },
+      {
+        "m_Id": 33535901545668639,
+        "m_Localized": "OK"
+      },
+      {
+        "m_Id": 33535901545668634,
+        "m_Localized": "Le descrizioni scritte al momento sono accettate solo da tastiera."
+      },
+      {
+        "m_Id": 33535901545668633,
+        "m_Localized": "Dove, quando, cosa esattamente?"
+      },
+      {
+        "m_Id": 33535901545668636,
+        "m_Localized": "Valutazione della segnalazione..."
+      },
+      {
+        "m_Id": 33535901545668637,
+        "m_Localized": "Non spenga il computer."
+      },
+      {
+        "m_Id": 33535901545668623,
+        "m_Localized": "Era ben sveglio/a in quel momento?"
+      },
+      {
+        "m_Id": 33535901545668625,
+        "m_Localized": "non del tutto sicuro/a"
+      },
+      {
+        "m_Id": 33535901545668624,
+        "m_Localized": "ben sveglio/a"
+      },
+      {
+        "m_Id": 33535901545668617,
+        "m_Localized": "Quanto era pericoloso l'avvistamento?"
+      },
+      {
+        "m_Id": 33535901545668619,
+        "m_Localized": "leggermente preoccupante"
+      },
+      {
+        "m_Id": 33535901545668618,
+        "m_Localized": "del tutto innocuo"
+      },
+      {
+        "m_Id": 33535901545668620,
+        "m_Localized": "Quanto era vicina l'anomalia?"
+      },
+      {
+        "m_Id": 33535901545668622,
+        "m_Localized": "proprio dietro di me"
+      },
+      {
+        "m_Id": 33535901545668621,
+        "m_Localized": "molto lontana"
+      },
+      {
+        "m_Id": 33535901545668626,
+        "m_Localized": "La Sua produttività ne ha risentito?"
+      },
+      {
+        "m_Id": 33535901545668628,
+        "m_Localized": "sensibilmente"
+      },
+      {
+        "m_Id": 33535901545668627,
+        "m_Localized": "per niente"
+      },
+      {
+        "m_Id": 33535901545668629,
+        "m_Localized": "Quanto è soddisfatto/a del Suo posto di lavoro?"
+      },
+      {
+        "m_Id": 33535901545668631,
+        "m_Localized": "soddisfatto/a"
+      },
+      {
+        "m_Id": 33535901545668630,
+        "m_Localized": "molto soddisfatto/a"
+      },
+      {
+        "m_Id": 33535901545668643,
+        "m_Localized": "La Sua descrizione \"%%Text%%\" è stata esaminata e archiviata."
+      },
+      {
+        "m_Id": 33535901545668609,
+        "m_Localized": "Valutazione - pratica %%Case%%"
+      },
+      {
+        "m_Id": 33535901545668615,
+        "m_Localized": "Palline che si muovono"
+      },
+      {
+        "m_Id": 33535901545668611,
+        "m_Localized": "Una figura"
+      },
+      {
+        "m_Id": 33535901545668614,
+        "m_Localized": "Luci che si spengono"
+      },
+      {
+        "m_Id": 33535901545668613,
+        "m_Localized": "Rumori"
+      },
+      {
+        "m_Id": 33535901545668616,
+        "m_Localized": "Altro"
+      },
+      {
+        "m_Id": 33535901545668612,
+        "m_Localized": "Un pupazzo"
+      },
+      {
+        "m_Id": 33535901545668610,
+        "m_Localized": "Cosa ha visto?"
+      },
+      {
+        "m_Id": 33535901545668635,
+        "m_Localized": "Invia segnalazione"
+      },
+      {
+        "m_Id": 33535901478559744,
+        "m_Localized": "report.exe"
+      },
+      {
+        "m_Id": 33535901545668638,
+        "m_Localized": "Nessun pericolo rilevato.\nPuò continuare a lavorare."
+      },
+      {
+        "m_Id": 15136925521543180,
+        "m_Localized": "Non c'è più niente da comprare."
+      },
+      {
+        "m_Id": 41838750729904128,
+        "m_Localized": "Acquistati: %%Count%% di %%Max%%"
+      },
+      {
+        "m_Id": 41838750641823744,
+        "m_Localized": "Selezioni un articolo"
+      },
+      {
+        "m_Id": 15136925521543170,
+        "m_Localized": "shop.exe"
+      },
+      {
+        "m_Id": 39917555193937920,
+        "m_Localized": "Nascondi bloccate"
+      },
+      {
+        "m_Id": 39917555122634752,
+        "m_Localized": "Nascondi al massimo"
+      },
+      {
+        "m_Id": 15136925521543183,
+        "m_Localized": "Pronto a potenziare."
+      },
+      {
+        "m_Id": 15136925521543182,
+        "m_Localized": "Livello %%Level%% di %%Max%%"
+      },
+      {
+        "m_Id": 15136925521543184,
+        "m_Localized": "I potenziamenti si comprano di notte."
+      },
+      {
+        "m_Id": 15136925521543181,
+        "m_Localized": "Selezioni un'abilità"
+      },
+      {
+        "m_Id": 15136925521543171,
+        "m_Localized": "abilità.exe"
+      },
+      {
+        "m_Id": 38129441794359315,
+        "m_Localized": "PRESO!"
+      },
+      {
+        "m_Id": 38129441794359298,
+        "m_Localized": "PAUSA"
+      },
+      {
+        "m_Id": 38129441794359314,
+        "m_Localized": "SCIVOLO"
+      },
+      {
+        "m_Id": 38129441794359304,
+        "m_Localized": "Scivolatori più veloci"
+      },
+      {
+        "m_Id": 38129441794359305,
+        "m_Localized": "%%Points%% punti"
+      },
+      {
+        "m_Id": 38129441794359306,
+        "m_Localized": "Azzera punteggi"
+      },
+      {
+        "m_Id": 38129441794359303,
+        "m_Localized": "Classifica"
+      },
+      {
+        "m_Id": 38129441794359296,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 38129441794359310,
+        "m_Localized": "Salta"
+      },
+      {
+        "m_Id": 38129441794359301,
+        "m_Localized": "Classifica..."
+      },
+      {
+        "m_Id": 38129441794359302,
+        "m_Localized": "Esci"
+      },
+      {
+        "m_Id": 38129441794359299,
+        "m_Localized": "Gioco"
+      },
+      {
+        "m_Id": 38129441794359300,
+        "m_Localized": "Nuovo"
+      },
+      {
+        "m_Id": 38129441794359313,
+        "m_Localized": "Preso. %%Key%% per una nuova discesa."
+      },
+      {
+        "m_Id": 38129441794359297,
+        "m_Localized": "In pausa. %%Key%% per continuare."
+      },
+      {
+        "m_Id": 38129441794359311,
+        "m_Localized": "%%Key%% per spingersi. Su salta, giù si abbassa."
+      },
+      {
+        "m_Id": 38129441794359308,
+        "m_Localized": "Ha raggiunto il posto %%Place%% in classifica. Inserisca il Suo nome:"
+      },
+      {
+        "m_Id": 38129441794359307,
+        "m_Localized": "Congratulazioni"
+      },
+      {
+        "m_Id": 38129441794359312,
+        "m_Localized": "Sopra i buchi, sotto le assi."
+      },
+      {
+        "m_Id": 38129441794359309,
+        "m_Localized": "Sterza"
+      },
+      {
+        "m_Id": 38129441785970688,
+        "m_Localized": "scivolo.exe"
+      },
+      {
+        "m_Id": 38126321592893461,
+        "m_Localized": "SCHIANTO!"
+      },
+      {
+        "m_Id": 38126321592893442,
+        "m_Localized": "PAUSA"
+      },
+      {
+        "m_Id": 38126321592893460,
+        "m_Localized": "ROBOSNAKE"
+      },
+      {
+        "m_Id": 38126321592893448,
+        "m_Localized": "Catene di robot più lunghe"
+      },
+      {
+        "m_Id": 38126321592893449,
+        "m_Localized": "%%Points%% punti"
+      },
+      {
+        "m_Id": 38126321592893450,
+        "m_Localized": "Azzera punteggi"
+      },
+      {
+        "m_Id": 38126321592893447,
+        "m_Localized": "Classifica"
+      },
+      {
+        "m_Id": 38126321592893440,
+        "m_Localized": "Chiudi"
+      },
+      {
+        "m_Id": 38126321592893445,
+        "m_Localized": "Classifica..."
+      },
+      {
+        "m_Id": 38126321592893446,
+        "m_Localized": "Esci"
+      },
+      {
+        "m_Id": 38126321592893443,
+        "m_Localized": "Gioco"
+      },
+      {
+        "m_Id": 38126321592893444,
+        "m_Localized": "Nuovo"
+      },
+      {
+        "m_Id": 38126321592893459,
+        "m_Localized": "Schianto. %%Key%% per una nuova partita."
+      },
+      {
+        "m_Id": 38126321592893441,
+        "m_Localized": "In pausa. %%Key%% per continuare."
+      },
+      {
+        "m_Id": 38126321592893457,
+        "m_Localized": "%%Key%% per iniziare. Mangia palline, raccogli robot."
+      },
+      {
+        "m_Id": 38126321592893452,
+        "m_Localized": "Ha raggiunto il posto %%Place%% in classifica. Inserisca il Suo nome:"
+      },
+      {
+        "m_Id": 38126321592893451,
+        "m_Localized": "Congratulazioni"
+      },
+      {
+        "m_Id": 38126321592893458,
+        "m_Localized": "Ogni pallina chiama un robot in più."
+      },
+      {
+        "m_Id": 38126321592893456,
+        "m_Localized": "Avvia"
+      },
+      {
+        "m_Id": 38126321592893455,
+        "m_Localized": "Sterza"
+      },
+      {
+        "m_Id": 38126321588699136,
+        "m_Localized": "robosnake.exe"
+      },
+      {
+        "m_Id": 15136925521543169,
+        "m_Localized": "Avvio"
+      },
+      {
+        "m_Id": 29981007254061133,
+        "m_Localized": "Palline raccolte"
+      },
+      {
+        "m_Id": 29981007258255361,
+        "m_Localized": "Distanza percorsa"
+      },
+      {
+        "m_Id": 29981007258255360,
+        "m_Localized": "Soldi guadagnati"
+      },
+      {
+        "m_Id": 29981007258255362,
+        "m_Localized": "Tempo giocato"
+      },
+      {
+        "m_Id": 29981007254061108,
+        "m_Localized": "Saldo"
+      },
+      {
+        "m_Id": 40720125780434944,
+        "m_Localized": "Palline bonus"
+      },
+      {
+        "m_Id": 29981007254061107,
+        "m_Localized": "Ancora in giro"
+      },
+      {
+        "m_Id": 29981007254061106,
+        "m_Localized": "Consegnate in totale"
+      },
+      {
+        "m_Id": 29981007254061113,
+        "m_Localized": "Miglior saldo a fine giornata"
+      },
+      {
+        "m_Id": 29981007254061127,
+        "m_Localized": "Più palline raccolte"
+      },
+      {
+        "m_Id": 29981007254061128,
+        "m_Localized": "Più palline consegnate"
+      },
+      {
+        "m_Id": 29981007254061131,
+        "m_Localized": "Camminata più lunga"
+      },
+      {
+        "m_Id": 29981007254061129,
+        "m_Localized": "Più soldi guadagnati"
+      },
+      {
+        "m_Id": 29981007254061132,
+        "m_Localized": "Notte più lunga"
+      },
+      {
+        "m_Id": 29981007254061130,
+        "m_Localized": "Spesa più alta"
+      },
+      {
+        "m_Id": 29981007254061082,
+        "m_Localized": "A mano"
+      },
+      {
+        "m_Id": 29981007254061085,
+        "m_Localized": "Dai robot"
+      },
+      {
+        "m_Id": 29981007254061083,
+        "m_Localized": "Rotolate o spinte"
+      },
+      {
+        "m_Id": 29981007254061086,
+        "m_Localized": "Con l'aspirapalline"
+      },
+      {
+        "m_Id": 29981007254061084,
+        "m_Localized": "Dalle bocchette"
+      },
+      {
+        "m_Id": 29981007254061114,
+        "m_Localized": "Giorno attuale"
+      },
+      {
+        "m_Id": 29981007254061064,
+        "m_Localized": "Giorno %%Day%%"
+      },
+      {
+        "m_Id": 29981007258255369,
+        "m_Localized": "Giorno più letale"
+      },
+      {
+        "m_Id": 29981007254061126,
+        "m_Localized": "Morti"
+      },
+      {
+        "m_Id": 29981007254061118,
+        "m_Localized": "Distanza percorsa"
+      },
+      {
+        "m_Id": 29981007254061112,
+        "m_Localized": "Guadagno al giorno"
+      },
+      {
+        "m_Id": 29981007254061109,
+        "m_Localized": "Guadagno totale"
+      },
+      {
+        "m_Id": 29981007254061120,
+        "m_Localized": "Torcia accesa"
+      },
+      {
+        "m_Id": 29981007254061068,
+        "m_Localized": "piena"
+      },
+      {
+        "m_Id": 29981007254061069,
+        "m_Localized": "piena il giorno %%Day%%"
+      },
+      {
+        "m_Id": 29981007254061063,
+        "m_Localized": "Sinistra/Destra: giorno"
+      },
+      {
+        "m_Id": 40631805984874496,
+        "m_Localized": "Su/Giù: scorri"
+      },
+      {
+        "m_Id": 29981007254061062,
+        "m_Localized": "%%Left%%/%%Right%% cambia scheda"
+      },
+      {
+        "m_Id": 29981007258255363,
+        "m_Localized": "Preso dalla creatura"
+      },
+      {
+        "m_Id": 29981007258255364,
+        "m_Localized": "Chiuso fuori di notte"
+      },
+      {
+        "m_Id": 29981007258255365,
+        "m_Localized": "Preso dal pupazzo"
+      },
+      {
+        "m_Id": 39829091034046464,
+        "m_Localized": "Beccato a correre dalla preside"
+      },
+      {
+        "m_Id": 29981007258255366,
+        "m_Localized": "Palline perse"
+      },
+      {
+        "m_Id": 29981007258255367,
+        "m_Localized": "Soldi persi"
+      },
+      {
+        "m_Id": 29981007258255368,
+        "m_Localized": "Tempo perso"
+      },
+      {
+        "m_Id": 29981007254061074,
+        "m_Localized": "Saldo"
+      },
+      {
+        "m_Id": 29981007254061080,
+        "m_Localized": "Oggetti trovati"
+      },
+      {
+        "m_Id": 29981007254061070,
+        "m_Localized": "Palline raccolte"
+      },
+      {
+        "m_Id": 29981007254061081,
+        "m_Localized": "Morti"
+      },
+      {
+        "m_Id": 29981007254061071,
+        "m_Localized": "Palline consegnate"
+      },
+      {
+        "m_Id": 29981007254061076,
+        "m_Localized": "Distanza percorsa"
+      },
+      {
+        "m_Id": 29981007254061072,
+        "m_Localized": "Soldi guadagnati"
+      },
+      {
+        "m_Id": 29981007254061079,
+        "m_Localized": "Torcia accesa"
+      },
+      {
+        "m_Id": 29981007254061078,
+        "m_Localized": "Tempo di notte"
+      },
+      {
+        "m_Id": 29981007254061075,
+        "m_Localized": "Vasche riempite"
+      },
+      {
+        "m_Id": 29981007254061077,
+        "m_Localized": "Tempo giocato"
+      },
+      {
+        "m_Id": 29992685077200896,
+        "m_Localized": "Passeri"
+      },
+      {
+        "m_Id": 29981007254061073,
+        "m_Localized": "Soldi spesi"
+      },
+      {
+        "m_Id": 29981007254061115,
+        "m_Localized": "Notti sopravvissute"
+      },
+      {
+        "m_Id": 29981007254061117,
+        "m_Localized": "Di cui di notte"
+      },
+      {
+        "m_Id": 29981007254061066,
+        "m_Localized": "Nessun giorno registrato finora."
+      },
+      {
+        "m_Id": 29981007254061067,
+        "m_Localized": "Ancora niente."
+      },
+      {
+        "m_Id": 29981007254061122,
+        "m_Localized": "Oggetti trovati"
+      },
+      {
+        "m_Id": 29981007254061105,
+        "m_Localized": "Nelle vasche"
+      },
+      {
+        "m_Id": 29981007254061121,
+        "m_Localized": "Vasche piene"
+      },
+      {
+        "m_Id": 29981007254061116,
+        "m_Localized": "Tempo giocato"
+      },
+      {
+        "m_Id": 29981007254061125,
+        "m_Localized": "Acquisti"
+      },
+      {
+        "m_Id": 29981007254061111,
+        "m_Localized": "Rimborsato"
+      },
+      {
+        "m_Id": 33535901545668658,
+        "m_Localized": "Avvistamenti segnalati"
+      },
+      {
+        "m_Id": 29981007254061104,
+        "m_Localized": "Prese dalle stanze"
+      },
+      {
+        "m_Id": 29981007254061098,
+        "m_Localized": "Conto"
+      },
+      {
+        "m_Id": 29981007254061102,
+        "m_Localized": "Media al giorno"
+      },
+      {
+        "m_Id": 29981007254061091,
+        "m_Localized": "Palline"
+      },
+      {
+        "m_Id": 29981007254061101,
+        "m_Localized": "Giorno migliore"
+      },
+      {
+        "m_Id": 29981007254061100,
+        "m_Localized": "Palline consegnate da"
+      },
+      {
+        "m_Id": 29981007254061103,
+        "m_Localized": "Disavventure"
+      },
+      {
+        "m_Id": 29981007254061092,
+        "m_Localized": "Soldi"
+      },
+      {
+        "m_Id": 29981007254061096,
+        "m_Localized": "Vasche delle palline"
+      },
+      {
+        "m_Id": 29981007254061094,
+        "m_Localized": "Progresso"
+      },
+      {
+        "m_Id": 29981007254061095,
+        "m_Localized": "Stanze"
+      },
+      {
+        "m_Id": 29981007254061097,
+        "m_Localized": "Raccolte oggi"
+      },
+      {
+        "m_Id": 29981007254061099,
+        "m_Localized": "Spesi per"
+      },
+      {
+        "m_Id": 29981007254061093,
+        "m_Localized": "Tempo"
+      },
+      {
+        "m_Id": 29981007254061090,
+        "m_Localized": "Arredi"
+      },
+      {
+        "m_Id": 29981007254061087,
+        "m_Localized": "Altro"
+      },
+      {
+        "m_Id": 29981007254061089,
+        "m_Localized": "Negozio"
+      },
+      {
+        "m_Id": 29981007254061088,
+        "m_Localized": "Abilità"
+      },
+      {
+        "m_Id": 29981007254061124,
+        "m_Localized": "Livelli di abilità acquistati"
+      },
+      {
+        "m_Id": 29981007254061123,
+        "m_Localized": "Passeri"
+      },
+      {
+        "m_Id": 29981007254061110,
+        "m_Localized": "Spesa totale"
+      },
+      {
+        "m_Id": 29981007254061119,
+        "m_Localized": "Di corsa"
+      },
+      {
+        "m_Id": 29981007254061061,
+        "m_Localized": "Giorno %%Day%% - Saldo %%Amount%%"
+      },
+      {
+        "m_Id": 29981007254061057,
+        "m_Localized": "Cronologia"
+      },
+      {
+        "m_Id": 29981007254061059,
+        "m_Localized": "Soldi"
+      },
+      {
+        "m_Id": 29981007254061056,
+        "m_Localized": "Panoramica"
+      },
+      {
+        "m_Id": 29981007254061060,
+        "m_Localized": "Record"
+      },
+      {
+        "m_Id": 29981007254061058,
+        "m_Localized": "Stanze"
+      },
+      {
+        "m_Id": 29981007199535104,
+        "m_Localized": "statistiche.exe"
+      },
+      {
+        "m_Id": 29981007254061065,
+        "m_Localized": "(oggi)"
+      },
+      {
+        "m_Id": 29987742211571712,
+        "m_Localized": "???"
+      },
+      {
+        "m_Id": 15136925521543175,
+        "m_Localized": "Potenzia"
+      },
+      {
+        "m_Id": 32987430690365440,
+        "m_Localized": "Questo è solo il turno di prova. Gli altri piani, più attrezzi e il resto del turno di notte arrivano con la versione completa.\n\nMettere Playrooms nella Sua lista dei desideri Steam?"
+      },
+      {
+        "m_Id": 32987430690365442,
+        "m_Localized": "Più tardi"
+      },
+      {
+        "m_Id": 32987430690365441,
+        "m_Localized": "Apri la pagina Steam"
+      },
+      {
+        "m_Id": 32987430644228096,
+        "m_Localized": "desideri.exe"
+      },
+      {
+        "m_Id": 42848953327820812,
+        "m_Localized": "Annulla"
+      },
+      {
+        "m_Id": 42848953327820801,
+        "m_Localized": "Proprietà dello schermo"
+      },
+      {
+        "m_Id": 42848953327820809,
+        "m_Localized": "Oro"
+      },
+      {
+        "m_Id": 42848953327820810,
+        "m_Localized": "da %%Count%% palline in personale.exe"
+      },
+      {
+        "m_Id": 42848953327820807,
+        "m_Localized": "Standard"
+      },
+      {
+        "m_Id": 42848953327820808,
+        "m_Localized": "Gilet catarifrangente"
+      },
+      {
+        "m_Id": 42848953327820803,
+        "m_Localized": "Balli"
+      },
+      {
+        "m_Id": 42848953327820802,
+        "m_Localized": "Sfondo"
+      },
+      {
+        "m_Id": 42848953327820811,
+        "m_Localized": "OK"
+      },
+      {
+        "m_Id": 42848953327820800,
+        "m_Localized": "schermo.exe"
+      },
+      {
+        "m_Id": 42848953327820805,
+        "m_Localized": "Lavagna, centrata"
+      },
+      {
+        "m_Id": 42848953327820804,
+        "m_Localized": "Verde acqua (predefinito)"
+      },
+      {
+        "m_Id": 42848953327820806,
+        "m_Localized": "Lavagna, affiancata"
+      },
+      {
+        "m_Id": 42848940774268928,
+        "m_Localized": "Obiettivo del personale"
+      },
+      {
+        "m_Id": 42848940774268946,
+        "m_Localized": "Tutti i responsabili della gestione dell'inventario stoccano insieme fino al 15/11. Ogni pallina che lei stocca viene accreditata al personale al risveglio."
+      },
+      {
+        "m_Id": 42848940774268947,
+        "m_Localized": "L'obiettivo del personale è concluso. Grazie per il suo impegno."
+      },
+      {
+        "m_Id": 42848940774268948,
+        "m_Localized": "Tutti i dettagli nelle notizie di Steam."
+      },
+      {
+        "m_Id": 42848940774268938,
+        "m_Localized": "OK"
+      },
+      {
+        "m_Id": 42848940774268934,
+        "m_Localized": "%%Count%% palline"
+      },
+      {
+        "m_Id": 42848940774268936,
+        "m_Localized": "Quota raggiunta"
+      },
+      {
+        "m_Id": 42848940774268937,
+        "m_Localized": "Contato appena Steam è connesso."
+      },
+      {
+        "m_Id": 42848940774268935,
+        "m_Localized": "%%Percent%% % del totale"
+      },
+      {
+        "m_Id": 42848940774268940,
+        "m_Localized": "Stato del %%Time%% (offline)"
+      },
+      {
+        "m_Id": 42848940774268944,
+        "m_Localized": "Valore di prova (editor)"
+      },
+      {
+        "m_Id": 42848940774268943,
+        "m_Localized": "Risultato finale"
+      },
+      {
+        "m_Id": 42848940774268939,
+        "m_Localized": "Stato: %%Time%%"
+      },
+      {
+        "m_Id": 42848940774268942,
+        "m_Localized": "Recupero in corso ..."
+      },
+      {
+        "m_Id": 42848940774268941,
+        "m_Localized": "Nessuna connessione a Steam"
+      },
+      {
+        "m_Id": 42848940774268930,
+        "m_Localized": "nuovo sfondo del desktop"
+      },
+      {
+        "m_Id": 42848940774268931,
+        "m_Localized": "nuovi costumi per Balli"
+      },
+      {
+        "m_Id": 42848940774268932,
+        "m_Localized": "Playrooms Chapter 2 gratis"
+      },
+      {
+        "m_Id": 42848940774268929,
+        "m_Localized": "%%Count%% palline: %%Reward%%"
+      },
+      {
+        "m_Id": 42848940774268945,
+        "m_Localized": "dd/MM, HH:mm"
+      },
+      {
+        "m_Id": 42848940719742976,
+        "m_Localized": "personale.exe"
+      },
+      {
+        "m_Id": 42848940774268933,
+        "m_Localized": "Stoccate in tutto il mondo: %%Count%% / %%Goal%%"
+      },
+      {
+        "m_Id": 42859937710874626,
+        "m_Localized": "%%Count%% / %%Goal%%  (%%Percent%%)"
+      },
+      {
+        "m_Id": 42861101483433984,
+        "m_Localized": "ancora 1 giorno"
+      },
+      {
+        "m_Id": 42859937702486016,
+        "m_Localized": "ancora %%Days%% giorni"
+      },
+      {
+        "m_Id": 42859937710874624,
+        "m_Localized": "ultimo giorno"
+      },
+      {
+        "m_Id": 42859937710874625,
+        "m_Localized": "concluso"
+      },
+      {
+        "m_Id": 42859937710874630,
+        "m_Localized": "Obiettivi"
+      },
+      {
+        "m_Id": 42859937710874631,
+        "m_Localized": "Il suo contributo"
+      },
+      {
+        "m_Id": 42859937710874627,
+        "m_Localized": "100 Mln"
+      },
+      {
+        "m_Id": 42859937710874628,
+        "m_Localized": "500 Mln"
+      },
+      {
+        "m_Id": 42859937710874629,
+        "m_Localized": "1 Mld"
+      },
+      {
+        "m_Id": 42859937710874633,
+        "m_Localized": "??? (svelato al raggiungimento)"
+      },
+      {
+        "m_Id": 42859937710874632,
+        "m_Localized": "Obiettivo %%Tier%%: %%Count%% palline"
+      },
+      {
+        "m_Id": 41469878130581508,
+        "m_Localized": "Fatto"
+      },
+      {
+        "m_Id": 41469878130581507,
+        "m_Localized": "Ripeti"
+      },
+      {
+        "m_Id": 41469878088638464,
+        "m_Localized": "Spessore del tratto"
+      },
+      {
+        "m_Id": 41469878130581505,
+        "m_Localized": "Linea retta"
+      },
+      {
+        "m_Id": 41469878130581504,
+        "m_Localized": "Strumento"
+      },
+      {
+        "m_Id": 41469878130581506,
+        "m_Localized": "Annulla"
+      },
+      {
+        "m_Id": 41469878130581509,
+        "m_Localized": "Cancella tutto"
+      },
+      {
+        "m_Id": 43096340839989248,
+        "m_Localized": "Lavagna, schermo intero"
+      },
+      {
+        "m_Id": 43096340865155075,
+        "m_Localized": "Corpo"
+      },
+      {
+        "m_Id": 43096340865155079,
+        "m_Localized": "Annulla"
+      },
+      {
+        "m_Id": 43096340865155073,
+        "m_Localized": "Spogliatoio di Balli"
+      },
+      {
+        "m_Id": 43096340865155074,
+        "m_Localized": "Testa"
+      },
+      {
+        "m_Id": 43096340865155081,
+        "m_Localized": "Cappello di Babbo Natale"
+      },
+      {
+        "m_Id": 43096340865155084,
+        "m_Localized": "Corona"
+      },
+      {
+        "m_Id": 43096340865155087,
+        "m_Localized": "Oro"
+      },
+      {
+        "m_Id": 43096340865155082,
+        "m_Localized": "Elmetto da cantiere"
+      },
+      {
+        "m_Id": 43096340865155083,
+        "m_Localized": "Cappellino da festa"
+      },
+      {
+        "m_Id": 43096340865155089,
+        "m_Localized": "Grigio robot"
+      },
+      {
+        "m_Id": 43096340865155088,
+        "m_Localized": "Palla di neve"
+      },
+      {
+        "m_Id": 43096340865155086,
+        "m_Localized": "Gilet catarifrangente"
+      },
+      {
+        "m_Id": 43096340865155080,
+        "m_Localized": "Orecchie da coniglio"
+      },
+      {
+        "m_Id": 43096340865155085,
+        "m_Localized": "Zucca"
+      },
+      {
+        "m_Id": 43096340865155077,
+        "m_Localized": "Bloccato: %%Source%%"
+      },
+      {
+        "m_Id": 43096340865155078,
+        "m_Localized": "OK"
+      },
+      {
+        "m_Id": 43096340865155092,
+        "m_Localized": "Natale"
+      },
+      {
+        "m_Id": 43096340865155090,
+        "m_Localized": "Pasqua"
+      },
+      {
+        "m_Id": 43096340865155091,
+        "m_Localized": "Halloween"
+      },
+      {
+        "m_Id": 43096340865155093,
+        "m_Localized": "Capodanno"
+      },
+      {
+        "m_Id": 43096340865155096,
+        "m_Localized": "Ultima vasca piena"
+      },
+      {
+        "m_Id": 43096340865155097,
+        "m_Localized": "8 robot aspirapolvere"
+      },
+      {
+        "m_Id": 43096340865155094,
+        "m_Localized": "Obiettivo del personale 1"
+      },
+      {
+        "m_Id": 43096340865155095,
+        "m_Localized": "Obiettivo del personale 2"
+      },
+      {
+        "m_Id": 43096340865155076,
+        "m_Localized": "Standard"
+      },
+      {
+        "m_Id": 43096340865155072,
+        "m_Localized": "spogliatoio.exe"
+      },
+      {
+        "m_Id": 43112059266859013,
+        "m_Localized": "Blu"
+      },
+      {
+        "m_Id": 43112059266859014,
+        "m_Localized": "Verde"
+      },
+      {
+        "m_Id": 43112059266859016,
+        "m_Localized": "Arancione"
+      },
+      {
+        "m_Id": 43112059266859015,
+        "m_Localized": "Giallo"
+      },
+      {
+        "m_Id": 43112059266859009,
+        "m_Localized": "Berretto da fattorino"
+      },
+      {
+        "m_Id": 43112059262664704,
+        "m_Localized": "Cuffia igienica"
+      },
+      {
+        "m_Id": 43112059266859010,
+        "m_Localized": "Tocco da laureato"
+      },
+      {
+        "m_Id": 43112059266859011,
+        "m_Localized": "Cappellino a elica"
+      },
+      {
+        "m_Id": 43112059266859012,
+        "m_Localized": "Passero"
+      },
+      {
+        "m_Id": 43112059266859008,
+        "m_Localized": "Cuffia da nuoto"
+      },
+      {
+        "m_Id": 43112059266859018,
+        "m_Localized": "Palla da discoteca"
+      },
+      {
+        "m_Id": 43112059266859017,
+        "m_Localized": "Hazmat"
+      },
+      {
+        "m_Id": 43112059266859028,
+        "m_Localized": "Vasca 10.000 piena"
+      },
+      {
+        "m_Id": 43112059266859025,
+        "m_Localized": "Vasca 1.500 piena"
+      },
+      {
+        "m_Id": 43112059266859026,
+        "m_Localized": "Vasca 2.500 piena"
+      },
+      {
+        "m_Id": 43112059266859027,
+        "m_Localized": "Vasca 5.000 piena"
+      },
+      {
+        "m_Id": 43112059266859019,
+        "m_Localized": "Prima notte superata"
+      },
+      {
+        "m_Id": 43112059266859030,
+        "m_Localized": "Discoteca dei robot vista"
+      },
+      {
+        "m_Id": 43112059266859029,
+        "m_Localized": "Pozzo finale visitato"
+      },
+      {
+        "m_Id": 43112059266859021,
+        "m_Localized": "Hotel visitato"
+      },
+      {
+        "m_Id": 43112059266859020,
+        "m_Localized": "Sala della piscina visitata"
+      },
+      {
+        "m_Id": 43112059266859022,
+        "m_Localized": "Scuola visitata"
+      },
+      {
+        "m_Id": 43112059266859024,
+        "m_Localized": "Tutti i 20 passeri"
+      },
+      {
+        "m_Id": 43112059266859023,
+        "m_Localized": "Balli lanciato 10 volte"
+      }
+    ]
+  }
+}

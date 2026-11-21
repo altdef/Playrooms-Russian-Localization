@@ -1,0 +1,398 @@
+{
+  "m_Name": "Items_it",
+  "m_LocaleId": {
+    "m_Code": "it"
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 1124732238798848,
+        "m_Localized": "palline"
+      },
+      {
+        "m_Id": 1528269974536192,
+        "m_Localized": "Intervallo di raccolta"
+      },
+      {
+        "m_Id": 1124796914966528,
+        "m_Localized": "palline"
+      },
+      {
+        "m_Id": 1130808472477696,
+        "m_Localized": "palline al secondo"
+      },
+      {
+        "m_Id": 28751316098097152,
+        "m_Localized": "Durata del caffè"
+      },
+      {
+        "m_Id": 28751316148428800,
+        "m_Localized": "Effetti del caffè"
+      },
+      {
+        "m_Id": 5000000000000010,
+        "m_Localized": "Durata del giorno"
+      },
+      {
+        "m_Id": 15992470656491520,
+        "m_Localized": "Ampiezza del fascio"
+      },
+      {
+        "m_Id": 11230154241056772,
+        "m_Localized": "Autonomia"
+      },
+      {
+        "m_Id": 11230154241056771,
+        "m_Localized": "Intensità del fascio"
+      },
+      {
+        "m_Id": 11230154241056773,
+        "m_Localized": "Portata del fascio"
+      },
+      {
+        "m_Id": 12006157032857600,
+        "m_Localized": "Tempo di ricarica"
+      },
+      {
+        "m_Id": 36577308049604608,
+        "m_Localized": "Scelta di frutta"
+      },
+      {
+        "m_Id": 36577308011855872,
+        "m_Localized": "Durata della frutta"
+      },
+      {
+        "m_Id": 35853902505246720,
+        "m_Localized": "Capienza del serbatoio"
+      },
+      {
+        "m_Id": 35899012571922432,
+        "m_Localized": "Angolo del cono"
+      },
+      {
+        "m_Id": 35853902756904961,
+        "m_Localized": "Portata"
+      },
+      {
+        "m_Id": 35853902756904960,
+        "m_Localized": "Palline al secondo"
+      },
+      {
+        "m_Id": 35853902756904962,
+        "m_Localized": "Velocità di trasferimento"
+      },
+      {
+        "m_Id": 18114027769233408,
+        "m_Localized": "Portata d'interazione"
+      },
+      {
+        "m_Id": 5000000000000011,
+        "m_Localized": "Intervallo di transizione luce"
+      },
+      {
+        "m_Id": 65956381720576,
+        "m_Localized": "Velocità di movimento"
+      },
+      {
+        "m_Id": 27232633627017218,
+        "m_Localized": "Autonomia"
+      },
+      {
+        "m_Id": 27232633606045696,
+        "m_Localized": "Capacità del robot"
+      },
+      {
+        "m_Id": 28681736126922752,
+        "m_Localized": "Robot trasportati"
+      },
+      {
+        "m_Id": 27232633627017216,
+        "m_Localized": "Velocità di carica"
+      },
+      {
+        "m_Id": 27245814583853056,
+        "m_Localized": "Velocità del robot"
+      },
+      {
+        "m_Id": 27232633627017217,
+        "m_Localized": "Intervallo di scarico"
+      },
+      {
+        "m_Id": 36264063564709890,
+        "m_Localized": "Tempo di attesa"
+      },
+      {
+        "m_Id": 36264063564709888,
+        "m_Localized": "Portata di scansione"
+      },
+      {
+        "m_Id": 36264063564709889,
+        "m_Localized": "Durata della marcatura"
+      },
+      {
+        "m_Id": 33059940865810432,
+        "m_Localized": "Carico della scopa"
+      },
+      {
+        "m_Id": 33059940844838912,
+        "m_Localized": "Velocità in spinta"
+      },
+      {
+        "m_Id": 11244457262292996,
+        "m_Localized": "Velocità di lancio"
+      },
+      {
+        "m_Id": 11244457262292994,
+        "m_Localized": "Lunghezza del manico"
+      },
+      {
+        "m_Id": 13814982882861056,
+        "m_Localized": "Intervallo di spinta"
+      },
+      {
+        "m_Id": 11244457262292995,
+        "m_Localized": "Larghezza di spazzata"
+      },
+      {
+        "m_Id": 21092329521872896,
+        "m_Localized": "Moltiplicatore di corsa"
+      },
+      {
+        "m_Id": 65956398497792,
+        "m_Localized": "Consumo di resistenza"
+      },
+      {
+        "m_Id": 35947549116530688,
+        "m_Localized": "Commutazione automatica"
+      },
+      {
+        "m_Id": 11276520510169089,
+        "m_Localized": "Capienza del serbatoio"
+      },
+      {
+        "m_Id": 11276520510169090,
+        "m_Localized": "Portata di aspirazione"
+      },
+      {
+        "m_Id": 11276520510169091,
+        "m_Localized": "Velocità di aspirazione"
+      },
+      {
+        "m_Id": 31267920383975424,
+        "m_Localized": "Intervallo di svuotamento"
+      },
+      {
+        "m_Id": 31267920446889984,
+        "m_Localized": "Velocità di trasferimento"
+      },
+      {
+        "m_Id": 14200785392508929,
+        "m_Localized": "Forza di aspirazione"
+      },
+      {
+        "m_Id": 14200785354760192,
+        "m_Localized": "Fattore di portata"
+      },
+      {
+        "m_Id": 14200785392508928,
+        "m_Localized": "Velocità di aspirazione"
+      },
+      {
+        "m_Id": 14200785392508930,
+        "m_Localized": "Flusso"
+      },
+      {
+        "m_Id": 26499494814351360,
+        "m_Localized": "Poltrona"
+      },
+      {
+        "m_Id": 26469040430186497,
+        "m_Localized": "Libreria"
+      },
+      {
+        "m_Id": 26499494814351361,
+        "m_Localized": "Tavolino"
+      },
+      {
+        "m_Id": 38805564097011712,
+        "m_Localized": "Icosaedro di rame"
+      },
+      {
+        "m_Id": 26499494789185536,
+        "m_Localized": "Divano a tre posti"
+      },
+      {
+        "m_Id": 26469040405020672,
+        "m_Localized": "Ciotola per animali"
+      },
+      {
+        "m_Id": 37743752330280961,
+        "m_Localized": "Grammofono"
+      },
+      {
+        "m_Id": 26499494814351363,
+        "m_Localized": "Pianta da scrivania"
+      },
+      {
+        "m_Id": 26499494814351362,
+        "m_Localized": "Pianta alta da interno"
+      },
+      {
+        "m_Id": 38849883092787200,
+        "m_Localized": "Scultura astratta"
+      },
+      {
+        "m_Id": 26469040430186496,
+        "m_Localized": "Telescopio"
+      },
+      {
+        "m_Id": 37743752330280960,
+        "m_Localized": "Cubo giocattolo"
+      },
+      {
+        "m_Id": 37743752305115136,
+        "m_Localized": "Televisore"
+      },
+      {
+        "m_Id": 38805564122177536,
+        "m_Localized": "Orologio da parete"
+      },
+      {
+        "m_Id": 5000000000000031,
+        "m_Localized": "Apre la prima porta sul lato sinistro della sala giochi, contando dall'ingresso."
+      },
+      {
+        "m_Id": 5000000000000030,
+        "m_Localized": "Chiave: 1ª porta a sinistra"
+      },
+      {
+        "m_Id": 5000000000000033,
+        "m_Localized": "Apre la seconda porta sul lato sinistro della sala giochi, contando dall'ingresso."
+      },
+      {
+        "m_Id": 5000000000000032,
+        "m_Localized": "Chiave: 2ª porta a sinistra"
+      },
+      {
+        "m_Id": 5000000000000035,
+        "m_Localized": "Apre la terza porta sul lato sinistro della sala giochi, contando dall'ingresso."
+      },
+      {
+        "m_Id": 5000000000000034,
+        "m_Localized": "Chiave: 3ª porta a sinistra"
+      },
+      {
+        "m_Id": 5000000000000037,
+        "m_Localized": "Apre la prima porta sul lato destro della sala giochi, contando dall'ingresso."
+      },
+      {
+        "m_Id": 5000000000000036,
+        "m_Localized": "Chiave: 1ª porta a destra"
+      },
+      {
+        "m_Id": 5000000000000039,
+        "m_Localized": "Apre la seconda porta sul lato destro della sala giochi, contando dall'ingresso."
+      },
+      {
+        "m_Id": 5000000000000038,
+        "m_Localized": "Chiave: 2ª porta a destra"
+      },
+      {
+        "m_Id": 5000000000000041,
+        "m_Localized": "Apre la terza porta sul lato destro della sala giochi, contando dall'ingresso."
+      },
+      {
+        "m_Id": 5000000000000040,
+        "m_Localized": "Chiave: 3ª porta a destra"
+      },
+      {
+        "m_Id": 5000000000000021,
+        "m_Localized": "Una pesante porta d'acciaio per il corridoio sul retro. Una volta acquistata, si può aprire in qualsiasi momento."
+      },
+      {
+        "m_Id": 5000000000000020,
+        "m_Localized": "Porta d'acciaio"
+      },
+      {
+        "m_Id": 11230154241056770,
+        "m_Localized": "Luce per gli angoli bui e i blackout. Si accende e si spegne con F. La batteria si ricarica da sola: una volta scarica, la torcia impiega un po' a tornare."
+      },
+      {
+        "m_Id": 11230154241056769,
+        "m_Localized": "Torcia"
+      },
+      {
+        "m_Id": 35854037691858946,
+        "m_Localized": "Raccoglie le palline senza doverle prendere una a una. Tenga premuto il tasto sinistro del mouse per aspirarle nel suo serbatoio; alla vasca delle palline il serbatoio viene consegnato tutto in una volta."
+      },
+      {
+        "m_Id": 35854037691858945,
+        "m_Localized": "Aspiratore manuale"
+      },
+      {
+        "m_Id": 28674471189741568,
+        "m_Localized": "La base dei robot aspirapolvere: senza stazione nessun robot lavora. La posi dove vuole: qui i robot si ricaricano e consegnano le palline raccolte alle vasche. Più stazioni, meno attese. Funziona solo di giorno e in una stanza illuminata."
+      },
+      {
+        "m_Id": 28674471168770048,
+        "m_Localized": "Stazione di ricarica"
+      },
+      {
+        "m_Id": 27959486112735232,
+        "m_Localized": "Raccoglie palline per Lei mentre è altrove. Si spinge fin dove arriva la batteria e torna alla stazione di ricarica libera più vicina per ricaricarsi e scaricare. Richiede almeno una stazione di ricarica."
+      },
+      {
+        "m_Id": 27959486100152320,
+        "m_Localized": "Robot aspirapolvere"
+      },
+      {
+        "m_Id": 36264031805440000,
+        "m_Localized": "Alla pressione di un tasto rileva tutte le unità non immagazzinate della stanza in cui si trova e le contrassegna, pareti comprese. Non è previsto alcun premio d'inventario."
+      },
+      {
+        "m_Id": 36264031717359616,
+        "m_Localized": "Scanner"
+      },
+      {
+        "m_Id": 11244457262292993,
+        "m_Localized": "Sposta molte palline in una volta. Tenga premuto il tasto sinistro del mouse per spingerle in mucchio davanti a sé; al rilascio la scopa lo scaglia in avanti, idealmente dritto in una bocchetta di aspirazione."
+      },
+      {
+        "m_Id": 11244457262292992,
+        "m_Localized": "Scopa a spinta"
+      },
+      {
+        "m_Id": 11276520510169088,
+        "m_Localized": "Un punto di consegna portatile: basta tornare ogni volta alle vasche delle palline. Lo porti dove raccoglie e lo appoggi. Un clic vi svuota le tasche e il serbatoio dell'aspiratore manuale, e lui trasferisce le palline alle vasche da solo. Con un potenziamento aspira anche le palline nelle vicinanze. Funziona solo di giorno e in una stanza illuminata."
+      },
+      {
+        "m_Id": 11276520489197568,
+        "m_Localized": "Aspirapalline"
+      },
+      {
+        "m_Id": 1130808497643520,
+        "m_Localized": "Resistenza"
+      },
+      {
+        "m_Id": 49575976239104,
+        "m_Localized": "Palline"
+      },
+      {
+        "m_Id": 11230154241056768,
+        "m_Localized": "Torcia"
+      },
+      {
+        "m_Id": 11230154228473856,
+        "m_Localized": "Mani"
+      },
+      {
+        "m_Id": 35854037691858944,
+        "m_Localized": "Aspiratore manuale"
+      },
+      {
+        "m_Id": 11244457237127168,
+        "m_Localized": "Scopa a spinta"
+      }
+    ]
+  }
+}
