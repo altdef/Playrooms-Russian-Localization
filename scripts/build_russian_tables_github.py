@@ -188,7 +188,7 @@ def main():
     if args.catalog is None:
         entered_path = input(
             "Укажи полный путь к catalog.bin игры "
-            "(можно перетащить файл в это окно):\\n> "
+            "(можно перетащить файл в это окно):\n> "
         ).strip().strip('"').strip("'")
         if not entered_path:
             raise SystemExit("Путь не указан. Сборка отменена.")
