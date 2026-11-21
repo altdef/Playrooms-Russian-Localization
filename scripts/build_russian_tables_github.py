@@ -10,9 +10,9 @@ from pathlib import Path
 import UnityPy
 
 
-# Папка репозитория определяется автоматически, поэтому проект можно
-# хранить не только в D:\loc\PlayRooms.
-BASE_DIR = Path(__file__).resolve().parent.parent
+# Скрипт можно запускать как из папки scripts, так и из корня проекта.
+SCRIPT_DIR = Path(__file__).resolve().parent
+BASE_DIR = SCRIPT_DIR.parent if SCRIPT_DIR.name.lower() == "scripts" else SCRIPT_DIR
 
 # Исходный bundle скачивается с GitHub в build при каждом запуске.
 SOURCE_BUNDLE_NAME = "localization-string-tables-italian(it)_assets_all.bundle"
